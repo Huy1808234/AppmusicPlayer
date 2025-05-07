@@ -21,19 +21,20 @@ export default function AdminTrackManager() {
   const [form] = Form.useForm();
   const [editingTrack, setEditingTrack] = useState<any>(null);
   const [artworkUrl, setArtworkUrl] = useState<string>('');
-
+  
   const fetchTracks = async () => {
     setLoading(true);
     try {
       const res = await axios.get(`${API_URL}/tracks`);
-      setTracks(res.data);
+      const sorted = res.data.sort((a: any, b: any) => Number(a.id) - Number(b.id));
+      setTracks(sorted);
     } catch (error) {
       message.error('Failed to load tracks');
     } finally {
       setLoading(false);
     }
   };
-
+  
   const handleAdd = () => {
     form.resetFields();
     setArtworkUrl('');
@@ -48,6 +49,16 @@ export default function AdminTrackManager() {
     setIsModalVisible(true);
   };
 
+  const handleDeleteAll = async () => {
+    try {
+      await axios.delete(`${API_URL}/tracks`);
+      message.success('All tracks deleted');
+      fetchTracks();
+    } catch (error) {
+      message.error('Failed to delete all tracks');
+    }
+  };
+  
   const handleDelete = async (id: string) => {
     try {
       await axios.delete(`${API_URL}/tracks/${id}`);
@@ -84,9 +95,15 @@ export default function AdminTrackManager() {
   return (
     <div style={{ padding: 24 }}>
       <h2>Admin - Track Manager</h2>
-      <Button type="primary" onClick={handleAdd} style={{ marginBottom: 16 }}>
-        Add New Track
-      </Button>
+      <Space style={{ marginBottom: 16 }}>
+  <Button type="primary" onClick={handleAdd}>
+    Add New Track
+  </Button>
+  <Button danger onClick={handleDeleteAll}>
+    Delete All Tracks
+  </Button>
+</Space>
+
       <Table
         rowKey="id"
         dataSource={tracks}
@@ -124,9 +141,6 @@ export default function AdminTrackManager() {
         onCancel={() => setIsModalVisible(false)}
       >
         <Form layout="vertical" form={form}>
-          <Form.Item label="Track ID" name="id" rules={[{ required: true }]}> 
-            <Input disabled={!!editingTrack} />
-          </Form.Item>
           <Form.Item label="Title" name="title" rules={[{ required: true }]}> 
             <Input />
           </Form.Item>

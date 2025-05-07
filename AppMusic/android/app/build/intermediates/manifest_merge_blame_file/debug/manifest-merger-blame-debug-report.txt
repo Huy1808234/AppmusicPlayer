@@ -1,0 +1,541 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.musicplayernew"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+9        android:targetSdkVersion="34" />
+10
+11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+11-->C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\debug\AndroidManifest.xml:5:5-77
+11-->C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\debug\AndroidManifest.xml:5:22-75
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:4:5-67
+12-->C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:4:22-64
+13    <uses-permission android:name="android.permission.READ_MEDIA_IMAGES" />
+13-->C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:6:6-77
+13-->C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:6:23-74
+14    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+14-->C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:7:5-80
+14-->C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:7:22-77
+15    <uses-permission
+15-->C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:8:4-12:3
+16        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+16-->C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:9:3-59
+17        android:maxSdkVersion="28" />
+17-->C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:10:3-29
+18    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+18-->[com.facebook.flipper:flipper:0.182.0] C:\Users\Admin\.gradle\caches\transforms-4\3d74042eeb4ac65e099db1befd40d414\transformed\jetified-flipper-0.182.0\AndroidManifest.xml:16:5-76
+18-->[com.facebook.flipper:flipper:0.182.0] C:\Users\Admin\.gradle\caches\transforms-4\3d74042eeb4ac65e099db1befd40d414\transformed\jetified-flipper-0.182.0\AndroidManifest.xml:16:22-73
+19    <uses-permission android:name="android.permission.WAKE_LOCK" />
+19-->[:react-native-firebase_auth] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-firebase\auth\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:5-68
+19-->[:react-native-firebase_auth] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-firebase\auth\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:22-65
+20    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+20-->[:react-native-firebase_auth] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-firebase\auth\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-79
+20-->[:react-native-firebase_auth] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-firebase\auth\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:22-76
+21
+22    <queries>
+22-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-11:15
+23        <intent>
+23-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:9-10:18
+24            <action android:name="android.media.action.IMAGE_CAPTURE" />
+24-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:13-73
+24-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:21-70
+25        </intent>
+26
+27        <package android:name="androidx.test.orchestrator" />
+27-->[androidx.test:runner:1.4.0] C:\Users\Admin\.gradle\caches\transforms-4\35ea6e3dd73dcaea1114b20433d1a671\transformed\runner-1.4.0\AndroidManifest.xml:25:9-62
+27-->[androidx.test:runner:1.4.0] C:\Users\Admin\.gradle\caches\transforms-4\35ea6e3dd73dcaea1114b20433d1a671\transformed\runner-1.4.0\AndroidManifest.xml:25:18-59
+28        <package android:name="androidx.test.services" />
+28-->[androidx.test:runner:1.4.0] C:\Users\Admin\.gradle\caches\transforms-4\35ea6e3dd73dcaea1114b20433d1a671\transformed\runner-1.4.0\AndroidManifest.xml:26:9-58
+28-->[androidx.test:runner:1.4.0] C:\Users\Admin\.gradle\caches\transforms-4\35ea6e3dd73dcaea1114b20433d1a671\transformed\runner-1.4.0\AndroidManifest.xml:26:18-55
+29        <package android:name="com.google.android.apps.common.testing.services" />
+29-->[androidx.test:runner:1.4.0] C:\Users\Admin\.gradle\caches\transforms-4\35ea6e3dd73dcaea1114b20433d1a671\transformed\runner-1.4.0\AndroidManifest.xml:27:9-83
+29-->[androidx.test:runner:1.4.0] C:\Users\Admin\.gradle\caches\transforms-4\35ea6e3dd73dcaea1114b20433d1a671\transformed\runner-1.4.0\AndroidManifest.xml:27:18-80
+30    </queries>
+31
+32    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+32-->[:react-native-track-player] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:5-77
+32-->[:react-native-track-player] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:22-74
+33    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK" />
+33-->[:react-native-track-player] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-92
+33-->[:react-native-track-player] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:22-89
+34    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+34-->[com.google.android.recaptcha:recaptcha:18.6.1] C:\Users\Admin\.gradle\caches\transforms-4\61f8eb471326df7f574c7de03b2c461e\transformed\jetified-recaptcha-18.6.1\AndroidManifest.xml:9:5-98
+34-->[com.google.android.recaptcha:recaptcha:18.6.1] C:\Users\Admin\.gradle\caches\transforms-4\61f8eb471326df7f574c7de03b2c461e\transformed\jetified-recaptcha-18.6.1\AndroidManifest.xml:9:22-95
+35
+36    <permission
+36-->[androidx.core:core:1.13.1] C:\Users\Admin\.gradle\caches\transforms-4\067446278a3345c7e565b3f7d3f9b04c\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+37        android:name="com.musicplayernew.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+37-->[androidx.core:core:1.13.1] C:\Users\Admin\.gradle\caches\transforms-4\067446278a3345c7e565b3f7d3f9b04c\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+38        android:protectionLevel="signature" />
+38-->[androidx.core:core:1.13.1] C:\Users\Admin\.gradle\caches\transforms-4\067446278a3345c7e565b3f7d3f9b04c\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+39
+40    <uses-permission android:name="com.musicplayernew.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+40-->[androidx.core:core:1.13.1] C:\Users\Admin\.gradle\caches\transforms-4\067446278a3345c7e565b3f7d3f9b04c\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+40-->[androidx.core:core:1.13.1] C:\Users\Admin\.gradle\caches\transforms-4\067446278a3345c7e565b3f7d3f9b04c\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+41
+42    <application
+42-->C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:16:5-41:19
+43        android:name="com.appmusic.MainApplication"
+43-->C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:17:7-38
+44        android:allowBackup="false"
+44-->C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:21:7-34
+45        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+45-->[androidx.core:core:1.13.1] C:\Users\Admin\.gradle\caches\transforms-4\067446278a3345c7e565b3f7d3f9b04c\transformed\core-1.13.1\AndroidManifest.xml:28:18-86
+46        android:debuggable="true"
+47        android:extractNativeLibs="false"
+48        android:icon="@mipmap/ic_launcher"
+48-->C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:19:7-41
+49        android:label="@string/app_name"
+49-->C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:18:7-39
+50        android:roundIcon="@mipmap/ic_launcher_round"
+50-->C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:20:7-52
+51        android:theme="@style/AppTheme"
+51-->C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:22:7-38
+52        android:usesCleartextTraffic="true" >
+52-->C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\debug\AndroidManifest.xml:8:9-44
+53        <activity
+53-->C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\debug\AndroidManifest.xml:11:9-111
+54            android:name="com.facebook.react.devsupport.DevSettingsActivity"
+54-->C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\debug\AndroidManifest.xml:11:19-83
+55            android:exported="false" />
+55-->C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\debug\AndroidManifest.xml:11:84-108
+56        <activity
+56-->C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:23:7-34:18
+57            android:name="com.appmusic.MainActivity"
+57-->C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:24:9-37
+58            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
+58-->C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:26:9-118
+59            android:exported="true"
+59-->C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:29:9-32
+60            android:label="@string/app_name"
+60-->C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:25:9-41
+61            android:launchMode="singleTask"
+61-->C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:27:9-40
+62            android:windowSoftInputMode="adjustResize" >
+62-->C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:28:9-51
+63            <intent-filter>
+63-->C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:30:9-33:25
+64                <action android:name="android.intent.action.MAIN" />
+64-->C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:31:13-65
+64-->C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:31:21-62
+65
+66                <category android:name="android.intent.category.LAUNCHER" />
+66-->C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:32:13-73
+66-->C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:32:23-70
+67            </intent-filter>
+68        </activity>
+69
+70        <service
+70-->C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:36:7-39:51
+71            android:name="com.doublesymmetry.trackplayer.service.MusicService"
+71-->C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:37:3-69
+72            android:enabled="true"
+72-->[:react-native-track-player] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:16:13-35
+73            android:exported="true"
+73-->C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:38:3-26
+74            android:foregroundServiceType="mediaPlayback" >
+74-->C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:39:3-48
+75            <intent-filter>
+75-->[:react-native-track-player] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:13-21:29
+76                <action android:name="android.intent.action.MEDIA_BUTTON" />
+76-->[:react-native-track-player] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:17-77
+76-->[:react-native-track-player] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:25-74
+77            </intent-filter>
+78        </service>
+79
+80        <meta-data
+80-->[:react-native-firebase_app] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:9-11:36
+81            android:name="app_data_collection_default_enabled"
+81-->[:react-native-firebase_app] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:13-63
+82            android:value="true" />
+82-->[:react-native-firebase_app] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-33
+83
+84        <service
+84-->[:react-native-firebase_app] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:9-21:19
+85            android:name="com.google.firebase.components.ComponentDiscoveryService"
+85-->[:react-native-firebase_app] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-84
+86            android:directBootAware="true"
+86-->[:react-native-firebase_app] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-43
+87            android:exported="false" >
+87-->[:react-native-firebase_app] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:16:13-37
+88            <meta-data
+88-->[:react-native-firebase_app] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-20:85
+89                android:name="com.google.firebase.components:io.invertase.firebase.app.ReactNativeFirebaseAppRegistrar"
+89-->[:react-native-firebase_app] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:17-120
+90                android:value="com.google.firebase.components.ComponentRegistrar" />
+90-->[:react-native-firebase_app] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:17-82
+91            <meta-data
+91-->[com.google.firebase:firebase-auth:23.2.0] C:\Users\Admin\.gradle\caches\transforms-4\1e1277fff1a63d6f2c76649fee3561ef\transformed\jetified-firebase-auth-23.2.0\AndroidManifest.xml:69:13-71:85
+92                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+92-->[com.google.firebase:firebase-auth:23.2.0] C:\Users\Admin\.gradle\caches\transforms-4\1e1277fff1a63d6f2c76649fee3561ef\transformed\jetified-firebase-auth-23.2.0\AndroidManifest.xml:70:17-109
+93                android:value="com.google.firebase.components.ComponentRegistrar" />
+93-->[com.google.firebase:firebase-auth:23.2.0] C:\Users\Admin\.gradle\caches\transforms-4\1e1277fff1a63d6f2c76649fee3561ef\transformed\jetified-firebase-auth-23.2.0\AndroidManifest.xml:71:17-82
+94            <meta-data
+94-->[com.google.firebase:firebase-firestore:25.1.3] C:\Users\Admin\.gradle\caches\transforms-4\2eed29c3ec20eebed22a71fe69abd07e\transformed\jetified-firebase-firestore-25.1.3\AndroidManifest.xml:17:13-19:85
+95                android:name="com.google.firebase.components:com.google.firebase.firestore.FirebaseFirestoreKtxRegistrar"
+95-->[com.google.firebase:firebase-firestore:25.1.3] C:\Users\Admin\.gradle\caches\transforms-4\2eed29c3ec20eebed22a71fe69abd07e\transformed\jetified-firebase-firestore-25.1.3\AndroidManifest.xml:18:17-122
+96                android:value="com.google.firebase.components.ComponentRegistrar" />
+96-->[com.google.firebase:firebase-firestore:25.1.3] C:\Users\Admin\.gradle\caches\transforms-4\2eed29c3ec20eebed22a71fe69abd07e\transformed\jetified-firebase-firestore-25.1.3\AndroidManifest.xml:19:17-82
+97            <meta-data
+97-->[com.google.firebase:firebase-firestore:25.1.3] C:\Users\Admin\.gradle\caches\transforms-4\2eed29c3ec20eebed22a71fe69abd07e\transformed\jetified-firebase-firestore-25.1.3\AndroidManifest.xml:20:13-22:85
+98                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
+98-->[com.google.firebase:firebase-firestore:25.1.3] C:\Users\Admin\.gradle\caches\transforms-4\2eed29c3ec20eebed22a71fe69abd07e\transformed\jetified-firebase-firestore-25.1.3\AndroidManifest.xml:21:17-111
+99                android:value="com.google.firebase.components.ComponentRegistrar" />
+99-->[com.google.firebase:firebase-firestore:25.1.3] C:\Users\Admin\.gradle\caches\transforms-4\2eed29c3ec20eebed22a71fe69abd07e\transformed\jetified-firebase-firestore-25.1.3\AndroidManifest.xml:22:17-82
+100            <meta-data
+100-->[com.google.firebase:firebase-storage:21.0.1] C:\Users\Admin\.gradle\caches\transforms-4\7bbca72ab036a09c00345edf24af85ed\transformed\jetified-firebase-storage-21.0.1\AndroidManifest.xml:30:13-32:85
+101                android:name="com.google.firebase.components:com.google.firebase.storage.FirebaseStorageKtxRegistrar"
+101-->[com.google.firebase:firebase-storage:21.0.1] C:\Users\Admin\.gradle\caches\transforms-4\7bbca72ab036a09c00345edf24af85ed\transformed\jetified-firebase-storage-21.0.1\AndroidManifest.xml:31:17-118
+102                android:value="com.google.firebase.components.ComponentRegistrar" />
+102-->[com.google.firebase:firebase-storage:21.0.1] C:\Users\Admin\.gradle\caches\transforms-4\7bbca72ab036a09c00345edf24af85ed\transformed\jetified-firebase-storage-21.0.1\AndroidManifest.xml:32:17-82
+103            <meta-data
+103-->[com.google.firebase:firebase-storage:21.0.1] C:\Users\Admin\.gradle\caches\transforms-4\7bbca72ab036a09c00345edf24af85ed\transformed\jetified-firebase-storage-21.0.1\AndroidManifest.xml:33:13-35:85
+104                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
+104-->[com.google.firebase:firebase-storage:21.0.1] C:\Users\Admin\.gradle\caches\transforms-4\7bbca72ab036a09c00345edf24af85ed\transformed\jetified-firebase-storage-21.0.1\AndroidManifest.xml:34:17-107
+105                android:value="com.google.firebase.components.ComponentRegistrar" />
+105-->[com.google.firebase:firebase-storage:21.0.1] C:\Users\Admin\.gradle\caches\transforms-4\7bbca72ab036a09c00345edf24af85ed\transformed\jetified-firebase-storage-21.0.1\AndroidManifest.xml:35:17-82
+106            <meta-data
+106-->[com.google.firebase:firebase-appcheck:18.0.0] C:\Users\Admin\.gradle\caches\transforms-4\93a0cf01093cabf5b5169d4ed1017216\transformed\jetified-firebase-appcheck-18.0.0\AndroidManifest.xml:25:13-27:85
+107                android:name="com.google.firebase.components:com.google.firebase.appcheck.FirebaseAppCheckKtxRegistrar"
+107-->[com.google.firebase:firebase-appcheck:18.0.0] C:\Users\Admin\.gradle\caches\transforms-4\93a0cf01093cabf5b5169d4ed1017216\transformed\jetified-firebase-appcheck-18.0.0\AndroidManifest.xml:26:17-120
+108                android:value="com.google.firebase.components.ComponentRegistrar" />
+108-->[com.google.firebase:firebase-appcheck:18.0.0] C:\Users\Admin\.gradle\caches\transforms-4\93a0cf01093cabf5b5169d4ed1017216\transformed\jetified-firebase-appcheck-18.0.0\AndroidManifest.xml:27:17-82
+109            <meta-data
+109-->[com.google.firebase:firebase-appcheck:18.0.0] C:\Users\Admin\.gradle\caches\transforms-4\93a0cf01093cabf5b5169d4ed1017216\transformed\jetified-firebase-appcheck-18.0.0\AndroidManifest.xml:28:13-30:85
+110                android:name="com.google.firebase.components:com.google.firebase.appcheck.FirebaseAppCheckRegistrar"
+110-->[com.google.firebase:firebase-appcheck:18.0.0] C:\Users\Admin\.gradle\caches\transforms-4\93a0cf01093cabf5b5169d4ed1017216\transformed\jetified-firebase-appcheck-18.0.0\AndroidManifest.xml:29:17-117
+111                android:value="com.google.firebase.components.ComponentRegistrar" />
+111-->[com.google.firebase:firebase-appcheck:18.0.0] C:\Users\Admin\.gradle\caches\transforms-4\93a0cf01093cabf5b5169d4ed1017216\transformed\jetified-firebase-appcheck-18.0.0\AndroidManifest.xml:30:17-82
+112            <meta-data
+112-->[com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Admin\.gradle\caches\transforms-4\97614da688a9362d40be6f9d5c05ceb5\transformed\jetified-firebase-common-ktx-21.0.0\AndroidManifest.xml:12:13-14:85
+113                android:name="com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar"
+113-->[com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Admin\.gradle\caches\transforms-4\97614da688a9362d40be6f9d5c05ceb5\transformed\jetified-firebase-common-ktx-21.0.0\AndroidManifest.xml:13:17-116
+114                android:value="com.google.firebase.components.ComponentRegistrar" />
+114-->[com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Admin\.gradle\caches\transforms-4\97614da688a9362d40be6f9d5c05ceb5\transformed\jetified-firebase-common-ktx-21.0.0\AndroidManifest.xml:14:17-82
+115            <meta-data
+115-->[com.google.firebase:firebase-common:21.0.0] C:\Users\Admin\.gradle\caches\transforms-4\4616063430f6698849d14f48e6a64d76\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:35:13-37:85
+116                android:name="com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar"
+116-->[com.google.firebase:firebase-common:21.0.0] C:\Users\Admin\.gradle\caches\transforms-4\4616063430f6698849d14f48e6a64d76\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:36:17-109
+117                android:value="com.google.firebase.components.ComponentRegistrar" />
+117-->[com.google.firebase:firebase-common:21.0.0] C:\Users\Admin\.gradle\caches\transforms-4\4616063430f6698849d14f48e6a64d76\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:37:17-82
+118        </service>
+119
+120        <provider
+120-->[:react-native-firebase_app] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:23:9-27:38
+121            android:name="io.invertase.firebase.app.ReactNativeFirebaseAppInitProvider"
+121-->[:react-native-firebase_app] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:24:13-88
+122            android:authorities="com.musicplayernew.reactnativefirebaseappinitprovider"
+122-->[:react-native-firebase_app] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:25:13-86
+123            android:exported="false"
+123-->[:react-native-firebase_app] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:26:13-37
+124            android:initOrder="99" />
+124-->[:react-native-firebase_app] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:27:13-35
+125        <provider
+125-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:9-26:20
+126            android:name="com.reactnative.ivpusic.imagepicker.IvpusicImagePickerFileProvider"
+126-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:13-94
+127            android:authorities="com.musicplayernew.provider"
+127-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:13-60
+128            android:exported="false"
+128-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:21:13-37
+129            android:grantUriPermissions="true" >
+129-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:22:13-47
+130            <meta-data
+130-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:23:13-25:78
+131                android:name="android.support.FILE_PROVIDER_PATHS"
+131-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:24:17-67
+132                android:resource="@xml/ivpusic_imagepicker_provider_paths" />
+132-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:25:17-75
+133        </provider>
+134
+135        <activity
+135-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:28:9-30:72
+136            android:name="com.yalantis.ucrop.UCropActivity"
+136-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:29:13-60
+137            android:theme="@style/Theme.AppCompat.Light.NoActionBar" /> <!-- Prompt Google Play services to install the backported photo picker module -->
+137-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:30:13-69
+138        <service
+138-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:33:9-44:19
+139            android:name="com.google.android.gms.metadata.ModuleDependencies"
+139-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:34:13-78
+140            android:enabled="false"
+140-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:35:13-36
+141            android:exported="false" >
+141-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:36:13-37
+142            <intent-filter>
+142-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:37:13-39:29
+143                <action android:name="com.google.android.gms.metadata.MODULE_DEPENDENCIES" />
+143-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:38:17-94
+143-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:38:25-91
+144            </intent-filter>
+145
+146            <meta-data
+146-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:41:13-43:36
+147                android:name="photopicker_activity:0:required"
+147-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:42:17-63
+148                android:value="" />
+148-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:43:17-33
+149        </service>
+150
+151        <provider
+151-->[:react-native-image-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:9-16:20
+152            android:name="com.imagepicker.ImagePickerProvider"
+152-->[:react-native-image-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:13-63
+153            android:authorities="com.musicplayernew.imagepickerprovider"
+153-->[:react-native-image-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:13-71
+154            android:exported="false"
+154-->[:react-native-image-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-37
+155            android:grantUriPermissions="true" >
+155-->[:react-native-image-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-47
+156            <meta-data
+156-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:23:13-25:78
+157                android:name="android.support.FILE_PROVIDER_PATHS"
+157-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:24:17-67
+158                android:resource="@xml/imagepicker_provider_paths" />
+158-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:25:17-75
+159        </provider>
+160
+161        <activity
+161-->[com.google.firebase:firebase-auth:23.2.0] C:\Users\Admin\.gradle\caches\transforms-4\1e1277fff1a63d6f2c76649fee3561ef\transformed\jetified-firebase-auth-23.2.0\AndroidManifest.xml:29:9-46:20
+162            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
+162-->[com.google.firebase:firebase-auth:23.2.0] C:\Users\Admin\.gradle\caches\transforms-4\1e1277fff1a63d6f2c76649fee3561ef\transformed\jetified-firebase-auth-23.2.0\AndroidManifest.xml:30:13-80
+163            android:excludeFromRecents="true"
+163-->[com.google.firebase:firebase-auth:23.2.0] C:\Users\Admin\.gradle\caches\transforms-4\1e1277fff1a63d6f2c76649fee3561ef\transformed\jetified-firebase-auth-23.2.0\AndroidManifest.xml:31:13-46
+164            android:exported="true"
+164-->[com.google.firebase:firebase-auth:23.2.0] C:\Users\Admin\.gradle\caches\transforms-4\1e1277fff1a63d6f2c76649fee3561ef\transformed\jetified-firebase-auth-23.2.0\AndroidManifest.xml:32:13-36
+165            android:launchMode="singleTask"
+165-->[com.google.firebase:firebase-auth:23.2.0] C:\Users\Admin\.gradle\caches\transforms-4\1e1277fff1a63d6f2c76649fee3561ef\transformed\jetified-firebase-auth-23.2.0\AndroidManifest.xml:33:13-44
+166            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+166-->[com.google.firebase:firebase-auth:23.2.0] C:\Users\Admin\.gradle\caches\transforms-4\1e1277fff1a63d6f2c76649fee3561ef\transformed\jetified-firebase-auth-23.2.0\AndroidManifest.xml:34:13-72
+167            <intent-filter>
+167-->[com.google.firebase:firebase-auth:23.2.0] C:\Users\Admin\.gradle\caches\transforms-4\1e1277fff1a63d6f2c76649fee3561ef\transformed\jetified-firebase-auth-23.2.0\AndroidManifest.xml:35:13-45:29
+168                <action android:name="android.intent.action.VIEW" />
+168-->[com.google.firebase:firebase-auth:23.2.0] C:\Users\Admin\.gradle\caches\transforms-4\1e1277fff1a63d6f2c76649fee3561ef\transformed\jetified-firebase-auth-23.2.0\AndroidManifest.xml:36:17-69
+168-->[com.google.firebase:firebase-auth:23.2.0] C:\Users\Admin\.gradle\caches\transforms-4\1e1277fff1a63d6f2c76649fee3561ef\transformed\jetified-firebase-auth-23.2.0\AndroidManifest.xml:36:25-66
+169
+170                <category android:name="android.intent.category.DEFAULT" />
+170-->[com.google.firebase:firebase-auth:23.2.0] C:\Users\Admin\.gradle\caches\transforms-4\1e1277fff1a63d6f2c76649fee3561ef\transformed\jetified-firebase-auth-23.2.0\AndroidManifest.xml:38:17-76
+170-->[com.google.firebase:firebase-auth:23.2.0] C:\Users\Admin\.gradle\caches\transforms-4\1e1277fff1a63d6f2c76649fee3561ef\transformed\jetified-firebase-auth-23.2.0\AndroidManifest.xml:38:27-73
+171                <category android:name="android.intent.category.BROWSABLE" />
+171-->[com.google.firebase:firebase-auth:23.2.0] C:\Users\Admin\.gradle\caches\transforms-4\1e1277fff1a63d6f2c76649fee3561ef\transformed\jetified-firebase-auth-23.2.0\AndroidManifest.xml:39:17-78
+171-->[com.google.firebase:firebase-auth:23.2.0] C:\Users\Admin\.gradle\caches\transforms-4\1e1277fff1a63d6f2c76649fee3561ef\transformed\jetified-firebase-auth-23.2.0\AndroidManifest.xml:39:27-75
+172
+173                <data
+173-->[com.google.firebase:firebase-auth:23.2.0] C:\Users\Admin\.gradle\caches\transforms-4\1e1277fff1a63d6f2c76649fee3561ef\transformed\jetified-firebase-auth-23.2.0\AndroidManifest.xml:41:17-44:51
+174                    android:host="firebase.auth"
+174-->[com.google.firebase:firebase-auth:23.2.0] C:\Users\Admin\.gradle\caches\transforms-4\1e1277fff1a63d6f2c76649fee3561ef\transformed\jetified-firebase-auth-23.2.0\AndroidManifest.xml:42:21-49
+175                    android:path="/"
+175-->[com.google.firebase:firebase-auth:23.2.0] C:\Users\Admin\.gradle\caches\transforms-4\1e1277fff1a63d6f2c76649fee3561ef\transformed\jetified-firebase-auth-23.2.0\AndroidManifest.xml:43:21-37
+176                    android:scheme="genericidp" />
+176-->[com.google.firebase:firebase-auth:23.2.0] C:\Users\Admin\.gradle\caches\transforms-4\1e1277fff1a63d6f2c76649fee3561ef\transformed\jetified-firebase-auth-23.2.0\AndroidManifest.xml:44:21-48
+177            </intent-filter>
+178        </activity>
+179        <activity
+179-->[com.google.firebase:firebase-auth:23.2.0] C:\Users\Admin\.gradle\caches\transforms-4\1e1277fff1a63d6f2c76649fee3561ef\transformed\jetified-firebase-auth-23.2.0\AndroidManifest.xml:47:9-64:20
+180            android:name="com.google.firebase.auth.internal.RecaptchaActivity"
+180-->[com.google.firebase:firebase-auth:23.2.0] C:\Users\Admin\.gradle\caches\transforms-4\1e1277fff1a63d6f2c76649fee3561ef\transformed\jetified-firebase-auth-23.2.0\AndroidManifest.xml:48:13-79
+181            android:excludeFromRecents="true"
+181-->[com.google.firebase:firebase-auth:23.2.0] C:\Users\Admin\.gradle\caches\transforms-4\1e1277fff1a63d6f2c76649fee3561ef\transformed\jetified-firebase-auth-23.2.0\AndroidManifest.xml:49:13-46
+182            android:exported="true"
+182-->[com.google.firebase:firebase-auth:23.2.0] C:\Users\Admin\.gradle\caches\transforms-4\1e1277fff1a63d6f2c76649fee3561ef\transformed\jetified-firebase-auth-23.2.0\AndroidManifest.xml:50:13-36
+183            android:launchMode="singleTask"
+183-->[com.google.firebase:firebase-auth:23.2.0] C:\Users\Admin\.gradle\caches\transforms-4\1e1277fff1a63d6f2c76649fee3561ef\transformed\jetified-firebase-auth-23.2.0\AndroidManifest.xml:51:13-44
+184            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+184-->[com.google.firebase:firebase-auth:23.2.0] C:\Users\Admin\.gradle\caches\transforms-4\1e1277fff1a63d6f2c76649fee3561ef\transformed\jetified-firebase-auth-23.2.0\AndroidManifest.xml:52:13-72
+185            <intent-filter>
+185-->[com.google.firebase:firebase-auth:23.2.0] C:\Users\Admin\.gradle\caches\transforms-4\1e1277fff1a63d6f2c76649fee3561ef\transformed\jetified-firebase-auth-23.2.0\AndroidManifest.xml:53:13-63:29
+186                <action android:name="android.intent.action.VIEW" />
+186-->[com.google.firebase:firebase-auth:23.2.0] C:\Users\Admin\.gradle\caches\transforms-4\1e1277fff1a63d6f2c76649fee3561ef\transformed\jetified-firebase-auth-23.2.0\AndroidManifest.xml:36:17-69
+186-->[com.google.firebase:firebase-auth:23.2.0] C:\Users\Admin\.gradle\caches\transforms-4\1e1277fff1a63d6f2c76649fee3561ef\transformed\jetified-firebase-auth-23.2.0\AndroidManifest.xml:36:25-66
+187
+188                <category android:name="android.intent.category.DEFAULT" />
+188-->[com.google.firebase:firebase-auth:23.2.0] C:\Users\Admin\.gradle\caches\transforms-4\1e1277fff1a63d6f2c76649fee3561ef\transformed\jetified-firebase-auth-23.2.0\AndroidManifest.xml:38:17-76
+188-->[com.google.firebase:firebase-auth:23.2.0] C:\Users\Admin\.gradle\caches\transforms-4\1e1277fff1a63d6f2c76649fee3561ef\transformed\jetified-firebase-auth-23.2.0\AndroidManifest.xml:38:27-73
+189                <category android:name="android.intent.category.BROWSABLE" />
+189-->[com.google.firebase:firebase-auth:23.2.0] C:\Users\Admin\.gradle\caches\transforms-4\1e1277fff1a63d6f2c76649fee3561ef\transformed\jetified-firebase-auth-23.2.0\AndroidManifest.xml:39:17-78
+189-->[com.google.firebase:firebase-auth:23.2.0] C:\Users\Admin\.gradle\caches\transforms-4\1e1277fff1a63d6f2c76649fee3561ef\transformed\jetified-firebase-auth-23.2.0\AndroidManifest.xml:39:27-75
+190
+191                <data
+191-->[com.google.firebase:firebase-auth:23.2.0] C:\Users\Admin\.gradle\caches\transforms-4\1e1277fff1a63d6f2c76649fee3561ef\transformed\jetified-firebase-auth-23.2.0\AndroidManifest.xml:41:17-44:51
+192                    android:host="firebase.auth"
+192-->[com.google.firebase:firebase-auth:23.2.0] C:\Users\Admin\.gradle\caches\transforms-4\1e1277fff1a63d6f2c76649fee3561ef\transformed\jetified-firebase-auth-23.2.0\AndroidManifest.xml:42:21-49
+193                    android:path="/"
+193-->[com.google.firebase:firebase-auth:23.2.0] C:\Users\Admin\.gradle\caches\transforms-4\1e1277fff1a63d6f2c76649fee3561ef\transformed\jetified-firebase-auth-23.2.0\AndroidManifest.xml:43:21-37
+194                    android:scheme="recaptcha" />
+194-->[com.google.firebase:firebase-auth:23.2.0] C:\Users\Admin\.gradle\caches\transforms-4\1e1277fff1a63d6f2c76649fee3561ef\transformed\jetified-firebase-auth-23.2.0\AndroidManifest.xml:44:21-48
+195            </intent-filter>
+196        </activity>
+197
+198        <service
+198-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Admin\.gradle\caches\transforms-4\c0bf4e1ca0fcdf18775637a203936e0f\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:24:9-32:19
+199            android:name="androidx.credentials.playservices.CredentialProviderMetadataHolder"
+199-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Admin\.gradle\caches\transforms-4\c0bf4e1ca0fcdf18775637a203936e0f\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:25:13-94
+200            android:enabled="true"
+200-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Admin\.gradle\caches\transforms-4\c0bf4e1ca0fcdf18775637a203936e0f\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:26:13-35
+201            android:exported="false" >
+201-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Admin\.gradle\caches\transforms-4\c0bf4e1ca0fcdf18775637a203936e0f\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:27:13-37
+202            <meta-data
+202-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Admin\.gradle\caches\transforms-4\c0bf4e1ca0fcdf18775637a203936e0f\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:29:13-31:104
+203                android:name="androidx.credentials.CREDENTIAL_PROVIDER_KEY"
+203-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Admin\.gradle\caches\transforms-4\c0bf4e1ca0fcdf18775637a203936e0f\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:30:17-76
+204                android:value="androidx.credentials.playservices.CredentialProviderPlayServicesImpl" />
+204-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Admin\.gradle\caches\transforms-4\c0bf4e1ca0fcdf18775637a203936e0f\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:31:17-101
+205        </service>
+206
+207        <activity
+207-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Admin\.gradle\caches\transforms-4\c0bf4e1ca0fcdf18775637a203936e0f\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:34:9-41:20
+208            android:name="androidx.credentials.playservices.HiddenActivity"
+208-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Admin\.gradle\caches\transforms-4\c0bf4e1ca0fcdf18775637a203936e0f\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:35:13-76
+209            android:configChanges="orientation|screenSize|screenLayout|keyboardHidden"
+209-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Admin\.gradle\caches\transforms-4\c0bf4e1ca0fcdf18775637a203936e0f\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:36:13-87
+210            android:enabled="true"
+210-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Admin\.gradle\caches\transforms-4\c0bf4e1ca0fcdf18775637a203936e0f\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:37:13-35
+211            android:exported="false"
+211-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Admin\.gradle\caches\transforms-4\c0bf4e1ca0fcdf18775637a203936e0f\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:38:13-37
+212            android:fitsSystemWindows="true"
+212-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Admin\.gradle\caches\transforms-4\c0bf4e1ca0fcdf18775637a203936e0f\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:39:13-45
+213            android:theme="@style/Theme.Hidden" >
+213-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Admin\.gradle\caches\transforms-4\c0bf4e1ca0fcdf18775637a203936e0f\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:40:13-48
+214        </activity>
+215        <activity
+215-->[com.google.android.gms:play-services-auth:21.3.0] C:\Users\Admin\.gradle\caches\transforms-4\95187b0e6fc5c2bd0d8305754293cdf4\transformed\jetified-play-services-auth-21.3.0\AndroidManifest.xml:23:9-27:75
+216            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+216-->[com.google.android.gms:play-services-auth:21.3.0] C:\Users\Admin\.gradle\caches\transforms-4\95187b0e6fc5c2bd0d8305754293cdf4\transformed\jetified-play-services-auth-21.3.0\AndroidManifest.xml:24:13-93
+217            android:excludeFromRecents="true"
+217-->[com.google.android.gms:play-services-auth:21.3.0] C:\Users\Admin\.gradle\caches\transforms-4\95187b0e6fc5c2bd0d8305754293cdf4\transformed\jetified-play-services-auth-21.3.0\AndroidManifest.xml:25:13-46
+218            android:exported="false"
+218-->[com.google.android.gms:play-services-auth:21.3.0] C:\Users\Admin\.gradle\caches\transforms-4\95187b0e6fc5c2bd0d8305754293cdf4\transformed\jetified-play-services-auth-21.3.0\AndroidManifest.xml:26:13-37
+219            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+219-->[com.google.android.gms:play-services-auth:21.3.0] C:\Users\Admin\.gradle\caches\transforms-4\95187b0e6fc5c2bd0d8305754293cdf4\transformed\jetified-play-services-auth-21.3.0\AndroidManifest.xml:27:13-72
+220        <!--
+221            Service handling Google Sign-In user revocation. For apps that do not integrate with
+222            Google Sign-In, this service will never be started.
+223        -->
+224        <service
+224-->[com.google.android.gms:play-services-auth:21.3.0] C:\Users\Admin\.gradle\caches\transforms-4\95187b0e6fc5c2bd0d8305754293cdf4\transformed\jetified-play-services-auth-21.3.0\AndroidManifest.xml:33:9-37:51
+225            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+225-->[com.google.android.gms:play-services-auth:21.3.0] C:\Users\Admin\.gradle\caches\transforms-4\95187b0e6fc5c2bd0d8305754293cdf4\transformed\jetified-play-services-auth-21.3.0\AndroidManifest.xml:34:13-89
+226            android:exported="true"
+226-->[com.google.android.gms:play-services-auth:21.3.0] C:\Users\Admin\.gradle\caches\transforms-4\95187b0e6fc5c2bd0d8305754293cdf4\transformed\jetified-play-services-auth-21.3.0\AndroidManifest.xml:35:13-36
+227            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
+227-->[com.google.android.gms:play-services-auth:21.3.0] C:\Users\Admin\.gradle\caches\transforms-4\95187b0e6fc5c2bd0d8305754293cdf4\transformed\jetified-play-services-auth-21.3.0\AndroidManifest.xml:36:13-107
+228            android:visibleToInstantApps="true" />
+228-->[com.google.android.gms:play-services-auth:21.3.0] C:\Users\Admin\.gradle\caches\transforms-4\95187b0e6fc5c2bd0d8305754293cdf4\transformed\jetified-play-services-auth-21.3.0\AndroidManifest.xml:37:13-48
+229
+230        <activity
+230-->[com.google.android.gms:play-services-base:18.5.0] C:\Users\Admin\.gradle\caches\transforms-4\dddd7b58723183f74a526f132e4390e8\transformed\jetified-play-services-base-18.5.0\AndroidManifest.xml:5:9-173
+231            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+231-->[com.google.android.gms:play-services-base:18.5.0] C:\Users\Admin\.gradle\caches\transforms-4\dddd7b58723183f74a526f132e4390e8\transformed\jetified-play-services-base-18.5.0\AndroidManifest.xml:5:19-85
+232            android:exported="false"
+232-->[com.google.android.gms:play-services-base:18.5.0] C:\Users\Admin\.gradle\caches\transforms-4\dddd7b58723183f74a526f132e4390e8\transformed\jetified-play-services-base-18.5.0\AndroidManifest.xml:5:146-170
+233            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+233-->[com.google.android.gms:play-services-base:18.5.0] C:\Users\Admin\.gradle\caches\transforms-4\dddd7b58723183f74a526f132e4390e8\transformed\jetified-play-services-base-18.5.0\AndroidManifest.xml:5:86-145
+234
+235        <provider
+235-->[com.google.firebase:firebase-common:21.0.0] C:\Users\Admin\.gradle\caches\transforms-4\4616063430f6698849d14f48e6a64d76\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:23:9-28:39
+236            android:name="com.google.firebase.provider.FirebaseInitProvider"
+236-->[com.google.firebase:firebase-common:21.0.0] C:\Users\Admin\.gradle\caches\transforms-4\4616063430f6698849d14f48e6a64d76\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:24:13-77
+237            android:authorities="com.musicplayernew.firebaseinitprovider"
+237-->[com.google.firebase:firebase-common:21.0.0] C:\Users\Admin\.gradle\caches\transforms-4\4616063430f6698849d14f48e6a64d76\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:25:13-72
+238            android:directBootAware="true"
+238-->[com.google.firebase:firebase-common:21.0.0] C:\Users\Admin\.gradle\caches\transforms-4\4616063430f6698849d14f48e6a64d76\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:26:13-43
+239            android:exported="false"
+239-->[com.google.firebase:firebase-common:21.0.0] C:\Users\Admin\.gradle\caches\transforms-4\4616063430f6698849d14f48e6a64d76\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:27:13-37
+240            android:initOrder="100" />
+240-->[com.google.firebase:firebase-common:21.0.0] C:\Users\Admin\.gradle\caches\transforms-4\4616063430f6698849d14f48e6a64d76\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:28:13-36
+241        <provider
+241-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Admin\.gradle\caches\transforms-4\db67e935cc0237f5084ce40100b34d85\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+242            android:name="androidx.startup.InitializationProvider"
+242-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Admin\.gradle\caches\transforms-4\db67e935cc0237f5084ce40100b34d85\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+243            android:authorities="com.musicplayernew.androidx-startup"
+243-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Admin\.gradle\caches\transforms-4\db67e935cc0237f5084ce40100b34d85\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+244            android:exported="false" >
+244-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Admin\.gradle\caches\transforms-4\db67e935cc0237f5084ce40100b34d85\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+245            <meta-data
+245-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Admin\.gradle\caches\transforms-4\db67e935cc0237f5084ce40100b34d85\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+246                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+246-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Admin\.gradle\caches\transforms-4\db67e935cc0237f5084ce40100b34d85\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+247                android:value="androidx.startup" />
+247-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Admin\.gradle\caches\transforms-4\db67e935cc0237f5084ce40100b34d85\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+248            <meta-data
+248-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Admin\.gradle\caches\transforms-4\40545e1daf729d81ee5a757ee00b7d01\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
+249                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+249-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Admin\.gradle\caches\transforms-4\40545e1daf729d81ee5a757ee00b7d01\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
+250                android:value="androidx.startup" />
+250-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Admin\.gradle\caches\transforms-4\40545e1daf729d81ee5a757ee00b7d01\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
+251            <meta-data
+251-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Admin\.gradle\caches\transforms-4\c02d5d76ebba1a9985c1eab22fb7972b\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
+252                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+252-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Admin\.gradle\caches\transforms-4\c02d5d76ebba1a9985c1eab22fb7972b\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
+253                android:value="androidx.startup" />
+253-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Admin\.gradle\caches\transforms-4\c02d5d76ebba1a9985c1eab22fb7972b\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
+254        </provider>
+255
+256        <meta-data
+256-->[com.google.android.gms:play-services-basement:18.4.0] C:\Users\Admin\.gradle\caches\transforms-4\b080adaec6ef7c46facc3a3da2311116\transformed\jetified-play-services-basement-18.4.0\AndroidManifest.xml:6:9-122
+257            android:name="com.google.android.gms.version"
+257-->[com.google.android.gms:play-services-basement:18.4.0] C:\Users\Admin\.gradle\caches\transforms-4\b080adaec6ef7c46facc3a3da2311116\transformed\jetified-play-services-basement-18.4.0\AndroidManifest.xml:6:20-65
+258            android:value="@integer/google_play_services_version" />
+258-->[com.google.android.gms:play-services-basement:18.4.0] C:\Users\Admin\.gradle\caches\transforms-4\b080adaec6ef7c46facc3a3da2311116\transformed\jetified-play-services-basement-18.4.0\AndroidManifest.xml:6:66-119
+259
+260        <receiver
+260-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Admin\.gradle\caches\transforms-4\c02d5d76ebba1a9985c1eab22fb7972b\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
+261            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+261-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Admin\.gradle\caches\transforms-4\c02d5d76ebba1a9985c1eab22fb7972b\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
+262            android:directBootAware="false"
+262-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Admin\.gradle\caches\transforms-4\c02d5d76ebba1a9985c1eab22fb7972b\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
+263            android:enabled="true"
+263-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Admin\.gradle\caches\transforms-4\c02d5d76ebba1a9985c1eab22fb7972b\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
+264            android:exported="true"
+264-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Admin\.gradle\caches\transforms-4\c02d5d76ebba1a9985c1eab22fb7972b\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
+265            android:permission="android.permission.DUMP" >
+265-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Admin\.gradle\caches\transforms-4\c02d5d76ebba1a9985c1eab22fb7972b\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
+266            <intent-filter>
+266-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Admin\.gradle\caches\transforms-4\c02d5d76ebba1a9985c1eab22fb7972b\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
+267                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+267-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Admin\.gradle\caches\transforms-4\c02d5d76ebba1a9985c1eab22fb7972b\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
+267-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Admin\.gradle\caches\transforms-4\c02d5d76ebba1a9985c1eab22fb7972b\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
+268            </intent-filter>
+269            <intent-filter>
+269-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Admin\.gradle\caches\transforms-4\c02d5d76ebba1a9985c1eab22fb7972b\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
+270                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+270-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Admin\.gradle\caches\transforms-4\c02d5d76ebba1a9985c1eab22fb7972b\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
+270-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Admin\.gradle\caches\transforms-4\c02d5d76ebba1a9985c1eab22fb7972b\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
+271            </intent-filter>
+272            <intent-filter>
+272-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Admin\.gradle\caches\transforms-4\c02d5d76ebba1a9985c1eab22fb7972b\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
+273                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+273-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Admin\.gradle\caches\transforms-4\c02d5d76ebba1a9985c1eab22fb7972b\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
+273-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Admin\.gradle\caches\transforms-4\c02d5d76ebba1a9985c1eab22fb7972b\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
+274            </intent-filter>
+275            <intent-filter>
+275-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Admin\.gradle\caches\transforms-4\c02d5d76ebba1a9985c1eab22fb7972b\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
+276                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+276-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Admin\.gradle\caches\transforms-4\c02d5d76ebba1a9985c1eab22fb7972b\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
+276-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Admin\.gradle\caches\transforms-4\c02d5d76ebba1a9985c1eab22fb7972b\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:50:25-92
+277            </intent-filter>
+278        </receiver>
+279
+280        <meta-data
+280-->[com.facebook.soloader:soloader:0.10.5] C:\Users\Admin\.gradle\caches\transforms-4\cd1f8fa02b4627e1437c1080a9ff559b\transformed\jetified-soloader-0.10.5\AndroidManifest.xml:12:9-14:37
+281            android:name="com.facebook.soloader.enabled"
+281-->[com.facebook.soloader:soloader:0.10.5] C:\Users\Admin\.gradle\caches\transforms-4\cd1f8fa02b4627e1437c1080a9ff559b\transformed\jetified-soloader-0.10.5\AndroidManifest.xml:13:13-57
+282            android:value="false" /> <!-- The activities will be merged into the manifest of the hosting app. -->
+282-->[com.facebook.soloader:soloader:0.10.5] C:\Users\Admin\.gradle\caches\transforms-4\cd1f8fa02b4627e1437c1080a9ff559b\transformed\jetified-soloader-0.10.5\AndroidManifest.xml:14:13-34
+283        <activity
+283-->[com.google.android.play:core-common:2.0.3] C:\Users\Admin\.gradle\caches\transforms-4\e3377a767707013ebd5be7724c869170\transformed\jetified-core-common-2.0.3\AndroidManifest.xml:14:9-18:65
+284            android:name="com.google.android.play.core.common.PlayCoreDialogWrapperActivity"
+284-->[com.google.android.play:core-common:2.0.3] C:\Users\Admin\.gradle\caches\transforms-4\e3377a767707013ebd5be7724c869170\transformed\jetified-core-common-2.0.3\AndroidManifest.xml:15:13-93
+285            android:exported="false"
+285-->[com.google.android.play:core-common:2.0.3] C:\Users\Admin\.gradle\caches\transforms-4\e3377a767707013ebd5be7724c869170\transformed\jetified-core-common-2.0.3\AndroidManifest.xml:16:13-37
+286            android:stateNotNeeded="true"
+286-->[com.google.android.play:core-common:2.0.3] C:\Users\Admin\.gradle\caches\transforms-4\e3377a767707013ebd5be7724c869170\transformed\jetified-core-common-2.0.3\AndroidManifest.xml:17:13-42
+287            android:theme="@style/Theme.PlayCore.Transparent" />
+287-->[com.google.android.play:core-common:2.0.3] C:\Users\Admin\.gradle\caches\transforms-4\e3377a767707013ebd5be7724c869170\transformed\jetified-core-common-2.0.3\AndroidManifest.xml:18:13-62
+288    </application>
+289
+290</manifest>

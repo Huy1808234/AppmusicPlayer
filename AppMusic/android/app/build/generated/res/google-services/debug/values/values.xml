@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">407686400784-sflovu0f9mr2cuo0gheumntaq5mlemrf.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">407686400784</string>
+    <string name="google_api_key" translatable="false">AIzaSyBkURZsd7Lb3igewaxQL2nBI1A9GetBVQU</string>
+    <string name="google_app_id" translatable="false">1:407686400784:android:70de0506776b4478f03395</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBkURZsd7Lb3igewaxQL2nBI1A9GetBVQU</string>
+    <string name="google_storage_bucket" translatable="false">muisicapp-cb701.firebasestorage.app</string>
+    <string name="project_id" translatable="false">muisicapp-cb701</string>
+</resources>

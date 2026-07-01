@@ -9,40 +9,40 @@
 9        android:targetSdkVersion="34" />
 10
 11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
-11-->C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\debug\AndroidManifest.xml:5:5-77
-11-->C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\debug\AndroidManifest.xml:5:22-75
+11-->C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\debug\AndroidManifest.xml:5:5-77
+11-->C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\debug\AndroidManifest.xml:5:22-75
 12    <uses-permission android:name="android.permission.INTERNET" />
-12-->C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:4:5-67
-12-->C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:4:22-64
+12-->C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:4:5-67
+12-->C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:4:22-64
 13    <uses-permission android:name="android.permission.READ_MEDIA_IMAGES" />
-13-->C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:6:6-77
-13-->C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:6:23-74
+13-->C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:6:6-77
+13-->C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:6:23-74
 14    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-14-->C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:7:5-80
-14-->C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:7:22-77
+14-->C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:7:5-80
+14-->C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:7:22-77
 15    <uses-permission
-15-->C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:8:4-12:3
+15-->C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:8:4-12:3
 16        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
-16-->C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:9:3-59
+16-->C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:9:3-59
 17        android:maxSdkVersion="28" />
-17-->C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:10:3-29
+17-->C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:10:3-29
 18    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
 18-->[com.facebook.flipper:flipper:0.182.0] C:\Users\Admin\.gradle\caches\transforms-4\3d74042eeb4ac65e099db1befd40d414\transformed\jetified-flipper-0.182.0\AndroidManifest.xml:16:5-76
 18-->[com.facebook.flipper:flipper:0.182.0] C:\Users\Admin\.gradle\caches\transforms-4\3d74042eeb4ac65e099db1befd40d414\transformed\jetified-flipper-0.182.0\AndroidManifest.xml:16:22-73
 19    <uses-permission android:name="android.permission.WAKE_LOCK" />
-19-->[:react-native-firebase_auth] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-firebase\auth\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:5-68
-19-->[:react-native-firebase_auth] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-firebase\auth\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:22-65
+19-->[:react-native-firebase_auth] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\@react-native-firebase\auth\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:5-68
+19-->[:react-native-firebase_auth] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\@react-native-firebase\auth\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:22-65
 20    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-20-->[:react-native-firebase_auth] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-firebase\auth\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-79
-20-->[:react-native-firebase_auth] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-firebase\auth\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:22-76
+20-->[:react-native-firebase_auth] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\@react-native-firebase\auth\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-79
+20-->[:react-native-firebase_auth] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\@react-native-firebase\auth\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:22-76
 21
 22    <queries>
-22-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-11:15
+22-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-11:15
 23        <intent>
-23-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:9-10:18
+23-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:9-10:18
 24            <action android:name="android.media.action.IMAGE_CAPTURE" />
-24-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:13-73
-24-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:21-70
+24-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:13-73
+24-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:21-70
 25        </intent>
 26
 27        <package android:name="androidx.test.orchestrator" />
@@ -57,11 +57,11 @@
 30    </queries>
 31
 32    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
-32-->[:react-native-track-player] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:5-77
-32-->[:react-native-track-player] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:22-74
+32-->[:react-native-track-player] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:5-77
+32-->[:react-native-track-player] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:22-74
 33    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK" />
-33-->[:react-native-track-player] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-92
-33-->[:react-native-track-player] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:22-89
+33-->[:react-native-track-player] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-92
+33-->[:react-native-track-player] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:22-89
 34    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
 34-->[com.google.android.recaptcha:recaptcha:18.6.1] C:\Users\Admin\.gradle\caches\transforms-4\61f8eb471326df7f574c7de03b2c461e\transformed\jetified-recaptcha-18.6.1\AndroidManifest.xml:9:5-98
 34-->[com.google.android.recaptcha:recaptcha:18.6.1] C:\Users\Admin\.gradle\caches\transforms-4\61f8eb471326df7f574c7de03b2c461e\transformed\jetified-recaptcha-18.6.1\AndroidManifest.xml:9:22-95
@@ -78,96 +78,96 @@
 40-->[androidx.core:core:1.13.1] C:\Users\Admin\.gradle\caches\transforms-4\067446278a3345c7e565b3f7d3f9b04c\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
 41
 42    <application
-42-->C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:16:5-41:19
+42-->C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:16:5-41:19
 43        android:name="com.appmusic.MainApplication"
-43-->C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:17:7-38
+43-->C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:17:7-38
 44        android:allowBackup="false"
-44-->C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:21:7-34
+44-->C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:21:7-34
 45        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 45-->[androidx.core:core:1.13.1] C:\Users\Admin\.gradle\caches\transforms-4\067446278a3345c7e565b3f7d3f9b04c\transformed\core-1.13.1\AndroidManifest.xml:28:18-86
 46        android:debuggable="true"
 47        android:extractNativeLibs="false"
 48        android:icon="@mipmap/ic_launcher"
-48-->C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:19:7-41
+48-->C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:19:7-41
 49        android:label="@string/app_name"
-49-->C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:18:7-39
+49-->C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:18:7-39
 50        android:roundIcon="@mipmap/ic_launcher_round"
-50-->C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:20:7-52
+50-->C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:20:7-52
 51        android:theme="@style/AppTheme"
-51-->C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:22:7-38
+51-->C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:22:7-38
 52        android:usesCleartextTraffic="true" >
-52-->C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\debug\AndroidManifest.xml:8:9-44
+52-->C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\debug\AndroidManifest.xml:8:9-44
 53        <activity
-53-->C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\debug\AndroidManifest.xml:11:9-111
+53-->C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\debug\AndroidManifest.xml:11:9-111
 54            android:name="com.facebook.react.devsupport.DevSettingsActivity"
-54-->C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\debug\AndroidManifest.xml:11:19-83
+54-->C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\debug\AndroidManifest.xml:11:19-83
 55            android:exported="false" />
-55-->C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\debug\AndroidManifest.xml:11:84-108
+55-->C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\debug\AndroidManifest.xml:11:84-108
 56        <activity
-56-->C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:23:7-34:18
+56-->C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:23:7-34:18
 57            android:name="com.appmusic.MainActivity"
-57-->C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:24:9-37
+57-->C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:24:9-37
 58            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
-58-->C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:26:9-118
+58-->C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:26:9-118
 59            android:exported="true"
-59-->C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:29:9-32
+59-->C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:29:9-32
 60            android:label="@string/app_name"
-60-->C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:25:9-41
+60-->C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:25:9-41
 61            android:launchMode="singleTask"
-61-->C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:27:9-40
+61-->C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:27:9-40
 62            android:windowSoftInputMode="adjustResize" >
-62-->C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:28:9-51
+62-->C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:28:9-51
 63            <intent-filter>
-63-->C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:30:9-33:25
+63-->C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:30:9-33:25
 64                <action android:name="android.intent.action.MAIN" />
-64-->C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:31:13-65
-64-->C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:31:21-62
+64-->C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:31:13-65
+64-->C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:31:21-62
 65
 66                <category android:name="android.intent.category.LAUNCHER" />
-66-->C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:32:13-73
-66-->C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:32:23-70
+66-->C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:32:13-73
+66-->C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:32:23-70
 67            </intent-filter>
 68        </activity>
 69
 70        <service
-70-->C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:36:7-39:51
+70-->C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:36:7-39:51
 71            android:name="com.doublesymmetry.trackplayer.service.MusicService"
-71-->C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:37:3-69
+71-->C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:37:3-69
 72            android:enabled="true"
-72-->[:react-native-track-player] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:16:13-35
+72-->[:react-native-track-player] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:16:13-35
 73            android:exported="true"
-73-->C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:38:3-26
+73-->C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:38:3-26
 74            android:foregroundServiceType="mediaPlayback" >
-74-->C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:39:3-48
+74-->C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:39:3-48
 75            <intent-filter>
-75-->[:react-native-track-player] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:13-21:29
+75-->[:react-native-track-player] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:13-21:29
 76                <action android:name="android.intent.action.MEDIA_BUTTON" />
-76-->[:react-native-track-player] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:17-77
-76-->[:react-native-track-player] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:25-74
+76-->[:react-native-track-player] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:17-77
+76-->[:react-native-track-player] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:25-74
 77            </intent-filter>
 78        </service>
 79
 80        <meta-data
-80-->[:react-native-firebase_app] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:9-11:36
+80-->[:react-native-firebase_app] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:9-11:36
 81            android:name="app_data_collection_default_enabled"
-81-->[:react-native-firebase_app] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:13-63
+81-->[:react-native-firebase_app] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:13-63
 82            android:value="true" />
-82-->[:react-native-firebase_app] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-33
+82-->[:react-native-firebase_app] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-33
 83
 84        <service
-84-->[:react-native-firebase_app] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:9-21:19
+84-->[:react-native-firebase_app] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:9-21:19
 85            android:name="com.google.firebase.components.ComponentDiscoveryService"
-85-->[:react-native-firebase_app] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-84
+85-->[:react-native-firebase_app] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-84
 86            android:directBootAware="true"
-86-->[:react-native-firebase_app] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-43
+86-->[:react-native-firebase_app] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-43
 87            android:exported="false" >
-87-->[:react-native-firebase_app] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:16:13-37
+87-->[:react-native-firebase_app] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:16:13-37
 88            <meta-data
-88-->[:react-native-firebase_app] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-20:85
+88-->[:react-native-firebase_app] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-20:85
 89                android:name="com.google.firebase.components:io.invertase.firebase.app.ReactNativeFirebaseAppRegistrar"
-89-->[:react-native-firebase_app] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:17-120
+89-->[:react-native-firebase_app] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:17-120
 90                android:value="com.google.firebase.components.ComponentRegistrar" />
-90-->[:react-native-firebase_app] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:17-82
+90-->[:react-native-firebase_app] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:17-82
 91            <meta-data
 91-->[com.google.firebase:firebase-auth:23.2.0] C:\Users\Admin\.gradle\caches\transforms-4\1e1277fff1a63d6f2c76649fee3561ef\transformed\jetified-firebase-auth-23.2.0\AndroidManifest.xml:69:13-71:85
 92                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
@@ -225,78 +225,78 @@
 118        </service>
 119
 120        <provider
-120-->[:react-native-firebase_app] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:23:9-27:38
+120-->[:react-native-firebase_app] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:23:9-27:38
 121            android:name="io.invertase.firebase.app.ReactNativeFirebaseAppInitProvider"
-121-->[:react-native-firebase_app] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:24:13-88
+121-->[:react-native-firebase_app] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:24:13-88
 122            android:authorities="com.musicplayernew.reactnativefirebaseappinitprovider"
-122-->[:react-native-firebase_app] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:25:13-86
+122-->[:react-native-firebase_app] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:25:13-86
 123            android:exported="false"
-123-->[:react-native-firebase_app] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:26:13-37
+123-->[:react-native-firebase_app] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:26:13-37
 124            android:initOrder="99" />
-124-->[:react-native-firebase_app] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:27:13-35
+124-->[:react-native-firebase_app] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:27:13-35
 125        <provider
-125-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:9-26:20
+125-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:9-26:20
 126            android:name="com.reactnative.ivpusic.imagepicker.IvpusicImagePickerFileProvider"
-126-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:13-94
+126-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:13-94
 127            android:authorities="com.musicplayernew.provider"
-127-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:13-60
+127-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:13-60
 128            android:exported="false"
-128-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:21:13-37
+128-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:21:13-37
 129            android:grantUriPermissions="true" >
-129-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:22:13-47
+129-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:22:13-47
 130            <meta-data
-130-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:23:13-25:78
+130-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:23:13-25:78
 131                android:name="android.support.FILE_PROVIDER_PATHS"
-131-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:24:17-67
+131-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:24:17-67
 132                android:resource="@xml/ivpusic_imagepicker_provider_paths" />
-132-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:25:17-75
+132-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:25:17-75
 133        </provider>
 134
 135        <activity
-135-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:28:9-30:72
+135-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:28:9-30:72
 136            android:name="com.yalantis.ucrop.UCropActivity"
-136-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:29:13-60
+136-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:29:13-60
 137            android:theme="@style/Theme.AppCompat.Light.NoActionBar" /> <!-- Prompt Google Play services to install the backported photo picker module -->
-137-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:30:13-69
+137-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:30:13-69
 138        <service
-138-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:33:9-44:19
+138-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:33:9-44:19
 139            android:name="com.google.android.gms.metadata.ModuleDependencies"
-139-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:34:13-78
+139-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:34:13-78
 140            android:enabled="false"
-140-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:35:13-36
+140-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:35:13-36
 141            android:exported="false" >
-141-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:36:13-37
+141-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:36:13-37
 142            <intent-filter>
-142-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:37:13-39:29
+142-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:37:13-39:29
 143                <action android:name="com.google.android.gms.metadata.MODULE_DEPENDENCIES" />
-143-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:38:17-94
-143-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:38:25-91
+143-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:38:17-94
+143-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:38:25-91
 144            </intent-filter>
 145
 146            <meta-data
-146-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:41:13-43:36
+146-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:41:13-43:36
 147                android:name="photopicker_activity:0:required"
-147-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:42:17-63
+147-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:42:17-63
 148                android:value="" />
-148-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:43:17-33
+148-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:43:17-33
 149        </service>
 150
 151        <provider
-151-->[:react-native-image-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:9-16:20
+151-->[:react-native-image-picker] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:9-16:20
 152            android:name="com.imagepicker.ImagePickerProvider"
-152-->[:react-native-image-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:13-63
+152-->[:react-native-image-picker] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:13-63
 153            android:authorities="com.musicplayernew.imagepickerprovider"
-153-->[:react-native-image-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:13-71
+153-->[:react-native-image-picker] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:13-71
 154            android:exported="false"
-154-->[:react-native-image-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-37
+154-->[:react-native-image-picker] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-37
 155            android:grantUriPermissions="true" >
-155-->[:react-native-image-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-47
+155-->[:react-native-image-picker] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-47
 156            <meta-data
-156-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:23:13-25:78
+156-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:23:13-25:78
 157                android:name="android.support.FILE_PROVIDER_PATHS"
-157-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:24:17-67
+157-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:24:17-67
 158                android:resource="@xml/imagepicker_provider_paths" />
-158-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:25:17-75
+158-->[:react-native-image-crop-picker] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:25:17-75
 159        </provider>
 160
 161        <activity

@@ -1,4 +1,4 @@
-#Wed May 07 17:40:56 GMT+07:00 2025
+#Thu Jul 03 19:26:58 GMT+07:00 2025
 path.4=6/classes.dex
 path.3=14/classes.dex
 path.2=0/classes.dex
@@ -8,9 +8,9 @@ path.6=classes3.dex
 path.5=classes2.dex
 path.0=classes.dex
 base.4=C\:\\Users\\Admin\\Desktop\\DATTLT\\ProjectMusic\\AppMusic\\android\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\6\\classes.dex
-base.3=C\:\\Users\\Admin\\Desktop\\DATTLT\\ProjectMusic\\AppMusic\\android\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\14\\classes.dex
-base.2=C\:\\Users\\Admin\\Desktop\\DATTLT\\ProjectMusic\\AppMusic\\android\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
-base.1=C\:\\Users\\Admin\\Desktop\\DATTLT\\ProjectMusic\\AppMusic\\android\\app\\build\\intermediates\\dex\\debug\\mergeLibDexDebug\\0\\classes.dex
+base.3=C\:\\Users\\Admin\\Desktop\\ProjectMusic\\AppMusic\\android\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\14\\classes.dex
+base.2=C\:\\Users\\Admin\\Desktop\\ProjectMusic\\AppMusic\\android\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.1=C\:\\Users\\Admin\\Desktop\\ProjectMusic\\AppMusic\\android\\app\\build\\intermediates\\dex\\debug\\mergeLibDexDebug\\0\\classes.dex
 base.0=C\:\\Users\\Admin\\Desktop\\DATTLT\\ProjectMusic\\AppMusic\\android\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 renamed.3=classes4.dex
 renamed.2=classes3.dex

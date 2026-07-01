@@ -1,29 +1,29 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:1:1-42:12
-MERGED from C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:1:1-42:12
-INJECTED from C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\debug\AndroidManifest.xml:2:1-13:12
-INJECTED from C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\debug\AndroidManifest.xml:2:1-13:12
-INJECTED from C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\debug\AndroidManifest.xml:2:1-13:12
+ADDED from C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:1:1-42:12
+MERGED from C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:1:1-42:12
+INJECTED from C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\debug\AndroidManifest.xml:2:1-13:12
+INJECTED from C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\debug\AndroidManifest.xml:2:1-13:12
+INJECTED from C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\debug\AndroidManifest.xml:2:1-13:12
 MERGED from [com.facebook.flipper:flipper-network-plugin:0.182.0] C:\Users\Admin\.gradle\caches\transforms-4\f82c634c3370e04b5a86da4c692cad83\transformed\jetified-flipper-network-plugin-0.182.0\AndroidManifest.xml:8:1-15:12
 MERGED from [com.facebook.flipper:flipper:0.182.0] C:\Users\Admin\.gradle\caches\transforms-4\3d74042eeb4ac65e099db1befd40d414\transformed\jetified-flipper-0.182.0\AndroidManifest.xml:8:1-18:12
-MERGED from [:react-native-async-storage_async-storage] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-async-storage\async-storage\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
-MERGED from [:react-native-community_slider] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-community\slider\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
-MERGED from [:react-native-firebase_auth] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-firebase\auth\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-11:12
-MERGED from [:react-native-firebase_firestore] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-firebase\firestore\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
-MERGED from [:react-native-firebase_storage] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-firebase\storage\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-11:12
-MERGED from [:react-native-firebase_app] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-30:12
-MERGED from [:react-native-google-signin_google-signin] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-google-signin\google-signin\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
-MERGED from [:react-native-fs] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-fs\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-gesture-handler] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-gesture-handler\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
-MERGED from [:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-47:12
-MERGED from [:react-native-image-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-19:12
-MERGED from [:react-native-linear-gradient] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-linear-gradient\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
-MERGED from [:react-native-safe-area-context] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
-MERGED from [:react-native-screens] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-screens\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
-MERGED from [:react-native-svg] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-svg\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
-MERGED from [:react-native-track-player] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-25:12
-MERGED from [:react-native-vector-icons] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-vector-icons\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-async-storage_async-storage] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\@react-native-async-storage\async-storage\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-community_slider] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\@react-native-community\slider\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-firebase_auth] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\@react-native-firebase\auth\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-firebase_firestore] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\@react-native-firebase\firestore\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-firebase_storage] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\@react-native-firebase\storage\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-firebase_app] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-30:12
+MERGED from [:react-native-google-signin_google-signin] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\@react-native-google-signin\google-signin\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-fs] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-fs\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-gesture-handler] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-gesture-handler\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-image-crop-picker] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-47:12
+MERGED from [:react-native-image-picker] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-19:12
+MERGED from [:react-native-linear-gradient] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-linear-gradient\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-safe-area-context] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-screens] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-screens\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-svg] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-svg\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-track-player] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-25:12
+MERGED from [:react-native-vector-icons] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-vector-icons\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
 MERGED from [com.facebook.react:react-android:0.74.7] C:\Users\Admin\.gradle\caches\transforms-4\2dc86d96e28358f653da766f83514e79\transformed\jetified-react-android-0.74.7-debug\AndroidManifest.xml:2:1-24:12
 MERGED from [com.github.doublesymmetry:kotlinaudio:v2.1.0] C:\Users\Admin\.gradle\caches\transforms-4\dedad95fbdbb24622042b69eab7936d5\transformed\jetified-kotlinaudio-v2.1.0\AndroidManifest.xml:2:1-9:12
 MERGED from [io.coil-kt:coil:2.2.0] C:\Users\Admin\.gradle\caches\transforms-4\dfb732fcca3f710c7199a027f13902d9\transformed\jetified-coil-2.2.0\AndroidManifest.xml:2:1-9:12
@@ -116,6 +116,7 @@ MERGED from [androidx.sqlite:sqlite-framework:2.2.0] C:\Users\Admin\.gradle\cach
 MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Admin\.gradle\caches\transforms-4\c02d5d76ebba1a9985c1eab22fb7972b\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:17:1-55:12
 MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Admin\.gradle\caches\transforms-4\2b91d0d29878aa147a22b9fec044b231\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
 MERGED from [androidx.tracing:tracing:1.1.0] C:\Users\Admin\.gradle\caches\transforms-4\8d30fa6f8503a6225f7629a1ed122795\transformed\jetified-tracing-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [:react-native-image-resizer] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-image-resizer\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\Admin\.gradle\caches\transforms-4\60e392a70747469c763ad13428646697\transformed\exifinterface-1.3.3\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.1.0] C:\Users\Admin\.gradle\caches\transforms-4\5c78cad45ae5b4c0f27e144b95f786e7\transformed\localbroadcastmanager-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.sqlite:sqlite:2.2.0] C:\Users\Admin\.gradle\caches\transforms-4\a071f8f9b444a4e07590242b38afa7e5\transformed\sqlite-2.2.0\AndroidManifest.xml:17:1-24:12
@@ -148,24 +149,24 @@ MERGED from [io.grpc:grpc-android:1.62.2] C:\Users\Admin\.gradle\caches\transfor
 MERGED from [com.google.firebase:protolite-well-known-types:18.0.1] C:\Users\Admin\.gradle\caches\transforms-4\22879d33aa302523c8bb5e5712af90ba\transformed\jetified-protolite-well-known-types-18.0.1\AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.android.play:core-common:2.0.3] C:\Users\Admin\.gradle\caches\transforms-4\e3377a767707013ebd5be7724c869170\transformed\jetified-core-common-2.0.3\AndroidManifest.xml:2:1-21:12
 	package
-		ADDED from C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:3:5-27
-		INJECTED from C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\debug\AndroidManifest.xml
+		ADDED from C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:3:5-27
+		INJECTED from C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\debug\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\debug\AndroidManifest.xml
+		INJECTED from C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\debug\AndroidManifest.xml
 	xmlns:tools
-		ADDED from C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:2:2-48
+		ADDED from C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:2:2-48
 	android:versionCode
-		INJECTED from C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\debug\AndroidManifest.xml
+		INJECTED from C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\debug\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:1:11-69
+		ADDED from C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:4:5-67
+ADDED from C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:4:5-67
 MERGED from [com.facebook.flipper:flipper:0.182.0] C:\Users\Admin\.gradle\caches\transforms-4\3d74042eeb4ac65e099db1befd40d414\transformed\jetified-flipper-0.182.0\AndroidManifest.xml:15:5-67
 MERGED from [com.facebook.flipper:flipper:0.182.0] C:\Users\Admin\.gradle\caches\transforms-4\3d74042eeb4ac65e099db1befd40d414\transformed\jetified-flipper-0.182.0\AndroidManifest.xml:15:5-67
-MERGED from [:react-native-firebase_auth] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-firebase\auth\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-67
-MERGED from [:react-native-firebase_auth] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-firebase\auth\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-67
-MERGED from [:react-native-firebase_storage] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-firebase\storage\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-67
-MERGED from [:react-native-firebase_storage] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-firebase\storage\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-67
+MERGED from [:react-native-firebase_auth] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\@react-native-firebase\auth\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-67
+MERGED from [:react-native-firebase_auth] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\@react-native-firebase\auth\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-67
+MERGED from [:react-native-firebase_storage] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\@react-native-firebase\storage\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-67
+MERGED from [:react-native-firebase_storage] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\@react-native-firebase\storage\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-67
 MERGED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Admin\.gradle\caches\transforms-4\1e1277fff1a63d6f2c76649fee3561ef\transformed\jetified-firebase-auth-23.2.0\AndroidManifest.xml:25:5-67
 MERGED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Admin\.gradle\caches\transforms-4\1e1277fff1a63d6f2c76649fee3561ef\transformed\jetified-firebase-auth-23.2.0\AndroidManifest.xml:25:5-67
 MERGED from [com.google.firebase:firebase-firestore:25.1.3] C:\Users\Admin\.gradle\caches\transforms-4\2eed29c3ec20eebed22a71fe69abd07e\transformed\jetified-firebase-firestore-25.1.3\AndroidManifest.xml:11:5-67
@@ -175,41 +176,41 @@ MERGED from [com.google.firebase:firebase-storage:21.0.1] C:\Users\Admin\.gradle
 MERGED from [com.google.android.recaptcha:recaptcha:18.6.1] C:\Users\Admin\.gradle\caches\transforms-4\61f8eb471326df7f574c7de03b2c461e\transformed\jetified-recaptcha-18.6.1\AndroidManifest.xml:7:5-67
 MERGED from [com.google.android.recaptcha:recaptcha:18.6.1] C:\Users\Admin\.gradle\caches\transforms-4\61f8eb471326df7f574c7de03b2c461e\transformed\jetified-recaptcha-18.6.1\AndroidManifest.xml:7:5-67
 	android:name
-		ADDED from C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:4:22-64
+		ADDED from C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:4:22-64
 uses-permission#android.permission.READ_MEDIA_IMAGES
-ADDED from C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:6:6-77
+ADDED from C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:6:6-77
 	android:name
-		ADDED from C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:6:23-74
+		ADDED from C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:6:23-74
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:7:5-80
+ADDED from C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:7:5-80
 	android:name
-		ADDED from C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:7:22-77
+		ADDED from C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:7:22-77
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:8:4-12:3
-MERGED from [:react-native-fs] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-fs\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-81
-MERGED from [:react-native-fs] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-fs\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-81
-MERGED from [:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:5-15:38
-MERGED from [:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:5-15:38
+ADDED from C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:8:4-12:3
+MERGED from [:react-native-fs] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-fs\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-81
+MERGED from [:react-native-fs] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-fs\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-81
+MERGED from [:react-native-image-crop-picker] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:5-15:38
+MERGED from [:react-native-image-crop-picker] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:5-15:38
 	android:maxSdkVersion
-		ADDED from C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:10:3-29
-		REJECTED from [:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:9-35
+		ADDED from C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:10:3-29
+		REJECTED from [:react-native-image-crop-picker] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:9-35
 	tools:replace
-		ADDED from C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:11:3-40
+		ADDED from C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:11:3-40
 	android:name
-		ADDED from C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:9:3-59
+		ADDED from C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:9:3-59
 application
-ADDED from C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:16:5-41:19
-MERGED from C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:16:5-41:19
-MERGED from C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:16:5-41:19
-INJECTED from C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\debug\AndroidManifest.xml:7:5-12:19
-MERGED from [:react-native-firebase_app] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:5-28:19
-MERGED from [:react-native-firebase_app] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:5-28:19
-MERGED from [:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:17:5-45:19
-MERGED from [:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:17:5-45:19
-MERGED from [:react-native-image-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-17:19
-MERGED from [:react-native-image-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-17:19
-MERGED from [:react-native-track-player] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:5-23:19
-MERGED from [:react-native-track-player] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:5-23:19
+ADDED from C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:16:5-41:19
+MERGED from C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:16:5-41:19
+MERGED from C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:16:5-41:19
+INJECTED from C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\debug\AndroidManifest.xml:7:5-12:19
+MERGED from [:react-native-firebase_app] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:5-28:19
+MERGED from [:react-native-firebase_app] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:5-28:19
+MERGED from [:react-native-image-crop-picker] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:17:5-45:19
+MERGED from [:react-native-image-crop-picker] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:17:5-45:19
+MERGED from [:react-native-image-picker] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-17:19
+MERGED from [:react-native-image-picker] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-17:19
+MERGED from [:react-native-track-player] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:5-23:19
+MERGED from [:react-native-track-player] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:5-23:19
 MERGED from [com.facebook.react:react-android:0.74.7] C:\Users\Admin\.gradle\caches\transforms-4\2dc86d96e28358f653da766f83514e79\transformed\jetified-react-android-0.74.7-debug\AndroidManifest.xml:18:5-22:19
 MERGED from [com.facebook.react:react-android:0.74.7] C:\Users\Admin\.gradle\caches\transforms-4\2dc86d96e28358f653da766f83514e79\transformed\jetified-react-android-0.74.7-debug\AndroidManifest.xml:18:5-22:19
 MERGED from [com.google.android.material:material:1.6.1] C:\Users\Admin\.gradle\caches\transforms-4\d0a1b455061dd4ab69a9bbedc9c43809\transformed\material-1.6.1\AndroidManifest.xml:24:5-20
@@ -267,125 +268,125 @@ MERGED from [com.facebook.soloader:soloader:0.10.5] C:\Users\Admin\.gradle\cache
 MERGED from [com.google.android.play:core-common:2.0.3] C:\Users\Admin\.gradle\caches\transforms-4\e3377a767707013ebd5be7724c869170\transformed\jetified-core-common-2.0.3\AndroidManifest.xml:11:5-19:19
 MERGED from [com.google.android.play:core-common:2.0.3] C:\Users\Admin\.gradle\caches\transforms-4\e3377a767707013ebd5be7724c869170\transformed\jetified-core-common-2.0.3\AndroidManifest.xml:11:5-19:19
 	android:extractNativeLibs
-		INJECTED from C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\debug\AndroidManifest.xml
+		INJECTED from C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\debug\AndroidManifest.xml
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.13.1] C:\Users\Admin\.gradle\caches\transforms-4\067446278a3345c7e565b3f7d3f9b04c\transformed\core-1.13.1\AndroidManifest.xml:28:18-86
 	android:label
-		ADDED from C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:18:7-39
-		ADDED from C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:18:7-39
+		ADDED from C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:18:7-39
+		ADDED from C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:18:7-39
 	tools:ignore
-		ADDED from C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\debug\AndroidManifest.xml:10:9-48
+		ADDED from C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\debug\AndroidManifest.xml:10:9-48
 	android:roundIcon
-		ADDED from C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:20:7-52
-		ADDED from C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:20:7-52
+		ADDED from C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:20:7-52
+		ADDED from C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:20:7-52
 	tools:targetApi
-		ADDED from C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\debug\AndroidManifest.xml:9:9-29
+		ADDED from C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\debug\AndroidManifest.xml:9:9-29
 	android:icon
-		ADDED from C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:19:7-41
-		ADDED from C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:19:7-41
+		ADDED from C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:19:7-41
+		ADDED from C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:19:7-41
 	android:allowBackup
-		ADDED from C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:21:7-34
-		ADDED from C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:21:7-34
+		ADDED from C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:21:7-34
+		ADDED from C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:21:7-34
 	android:theme
-		ADDED from C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:22:7-38
-		ADDED from C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:22:7-38
+		ADDED from C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:22:7-38
+		ADDED from C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:22:7-38
 	android:usesCleartextTraffic
-		ADDED from C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\debug\AndroidManifest.xml:8:9-44
+		ADDED from C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\debug\AndroidManifest.xml:8:9-44
 	android:name
-		ADDED from C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:17:7-38
-		ADDED from C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:17:7-38
+		ADDED from C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:17:7-38
+		ADDED from C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:17:7-38
 activity#com.appmusic.MainActivity
-ADDED from C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:23:7-34:18
+ADDED from C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:23:7-34:18
 	android:label
-		ADDED from C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:25:9-41
+		ADDED from C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:25:9-41
 	android:launchMode
-		ADDED from C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:27:9-40
+		ADDED from C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:27:9-40
 	android:windowSoftInputMode
-		ADDED from C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:28:9-51
+		ADDED from C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:28:9-51
 	android:exported
-		ADDED from C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:29:9-32
+		ADDED from C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:29:9-32
 	android:configChanges
-		ADDED from C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:26:9-118
+		ADDED from C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:26:9-118
 	android:name
-		ADDED from C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:24:9-37
+		ADDED from C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:24:9-37
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:30:9-33:25
+ADDED from C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:30:9-33:25
 action#android.intent.action.MAIN
-ADDED from C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:31:13-65
+ADDED from C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:31:13-65
 	android:name
-		ADDED from C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:31:21-62
+		ADDED from C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:31:21-62
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:32:13-73
+ADDED from C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:32:13-73
 	android:name
-		ADDED from C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:32:23-70
+		ADDED from C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:32:23-70
 service#com.doublesymmetry.trackplayer.service.MusicService
-ADDED from C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:36:7-39:51
-MERGED from [:react-native-track-player] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:9-22:19
-MERGED from [:react-native-track-player] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:9-22:19
+ADDED from C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:36:7-39:51
+MERGED from [:react-native-track-player] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:9-22:19
+MERGED from [:react-native-track-player] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:9-22:19
 	android:enabled
-		ADDED from [:react-native-track-player] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:16:13-35
+		ADDED from [:react-native-track-player] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:16:13-35
 	android:exported
-		ADDED from C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:38:3-26
+		ADDED from C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:38:3-26
 	android:foregroundServiceType
-		ADDED from C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:39:3-48
+		ADDED from C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:39:3-48
 	android:name
-		ADDED from C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:37:3-69
+		ADDED from C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\main\AndroidManifest.xml:37:3-69
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
-ADDED from C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\debug\AndroidManifest.xml:5:5-77
+ADDED from C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\debug\AndroidManifest.xml:5:5-77
 MERGED from [com.facebook.react:react-android:0.74.7] C:\Users\Admin\.gradle\caches\transforms-4\2dc86d96e28358f653da766f83514e79\transformed\jetified-react-android-0.74.7-debug\AndroidManifest.xml:16:5-78
 MERGED from [com.facebook.react:react-android:0.74.7] C:\Users\Admin\.gradle\caches\transforms-4\2dc86d96e28358f653da766f83514e79\transformed\jetified-react-android-0.74.7-debug\AndroidManifest.xml:16:5-78
 	android:name
-		ADDED from C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\debug\AndroidManifest.xml:5:22-75
+		ADDED from C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\debug\AndroidManifest.xml:5:22-75
 activity#com.facebook.react.devsupport.DevSettingsActivity
-ADDED from C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\debug\AndroidManifest.xml:11:9-111
+ADDED from C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\debug\AndroidManifest.xml:11:9-111
 MERGED from [com.facebook.react:react-android:0.74.7] C:\Users\Admin\.gradle\caches\transforms-4\2dc86d96e28358f653da766f83514e79\transformed\jetified-react-android-0.74.7-debug\AndroidManifest.xml:19:9-21:40
 MERGED from [com.facebook.react:react-android:0.74.7] C:\Users\Admin\.gradle\caches\transforms-4\2dc86d96e28358f653da766f83514e79\transformed\jetified-react-android-0.74.7-debug\AndroidManifest.xml:19:9-21:40
 	android:exported
-		ADDED from C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\debug\AndroidManifest.xml:11:84-108
+		ADDED from C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\debug\AndroidManifest.xml:11:84-108
 	android:name
-		ADDED from C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\debug\AndroidManifest.xml:11:19-83
+		ADDED from C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\debug\AndroidManifest.xml:11:19-83
 uses-sdk
-INJECTED from C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\debug\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\debug\AndroidManifest.xml
-INJECTED from C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\debug\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\debug\AndroidManifest.xml
 MERGED from [com.facebook.flipper:flipper-network-plugin:0.182.0] C:\Users\Admin\.gradle\caches\transforms-4\f82c634c3370e04b5a86da4c692cad83\transformed\jetified-flipper-network-plugin-0.182.0\AndroidManifest.xml:11:5-13:41
 MERGED from [com.facebook.flipper:flipper-network-plugin:0.182.0] C:\Users\Admin\.gradle\caches\transforms-4\f82c634c3370e04b5a86da4c692cad83\transformed\jetified-flipper-network-plugin-0.182.0\AndroidManifest.xml:11:5-13:41
 MERGED from [com.facebook.flipper:flipper:0.182.0] C:\Users\Admin\.gradle\caches\transforms-4\3d74042eeb4ac65e099db1befd40d414\transformed\jetified-flipper-0.182.0\AndroidManifest.xml:11:5-13:41
 MERGED from [com.facebook.flipper:flipper:0.182.0] C:\Users\Admin\.gradle\caches\transforms-4\3d74042eeb4ac65e099db1befd40d414\transformed\jetified-flipper-0.182.0\AndroidManifest.xml:11:5-13:41
-MERGED from [:react-native-async-storage_async-storage] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-async-storage\async-storage\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:react-native-async-storage_async-storage] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-async-storage\async-storage\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:react-native-community_slider] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-community\slider\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:react-native-community_slider] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-community\slider\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:react-native-firebase_auth] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-firebase\auth\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:react-native-firebase_auth] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-firebase\auth\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:react-native-firebase_firestore] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-firebase\firestore\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:react-native-firebase_firestore] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-firebase\firestore\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:react-native-firebase_storage] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-firebase\storage\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:react-native-firebase_storage] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-firebase\storage\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:react-native-firebase_app] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:6:5-44
-MERGED from [:react-native-firebase_app] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:6:5-44
-MERGED from [:react-native-google-signin_google-signin] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-google-signin\google-signin\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:react-native-google-signin_google-signin] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-google-signin\google-signin\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:react-native-fs] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-fs\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:react-native-fs] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-fs\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:react-native-gesture-handler] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-gesture-handler\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:react-native-gesture-handler] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-gesture-handler\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:react-native-image-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:react-native-image-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:react-native-linear-gradient] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-linear-gradient\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:react-native-linear-gradient] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-linear-gradient\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:react-native-safe-area-context] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:react-native-safe-area-context] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:react-native-screens] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-screens\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:react-native-screens] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-screens\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:react-native-svg] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-svg\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:react-native-svg] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-svg\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:react-native-track-player] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:react-native-track-player] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:react-native-vector-icons] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-vector-icons\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:react-native-vector-icons] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-vector-icons\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-async-storage_async-storage] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\@react-native-async-storage\async-storage\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-async-storage_async-storage] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\@react-native-async-storage\async-storage\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-community_slider] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\@react-native-community\slider\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-community_slider] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\@react-native-community\slider\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-firebase_auth] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\@react-native-firebase\auth\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-firebase_auth] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\@react-native-firebase\auth\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-firebase_firestore] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\@react-native-firebase\firestore\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-firebase_firestore] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\@react-native-firebase\firestore\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-firebase_storage] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\@react-native-firebase\storage\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-firebase_storage] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\@react-native-firebase\storage\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-firebase_app] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:6:5-44
+MERGED from [:react-native-firebase_app] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:6:5-44
+MERGED from [:react-native-google-signin_google-signin] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\@react-native-google-signin\google-signin\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-google-signin_google-signin] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\@react-native-google-signin\google-signin\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-fs] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-fs\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-fs] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-fs\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-gesture-handler] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-gesture-handler\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-gesture-handler] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-gesture-handler\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-image-crop-picker] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-image-crop-picker] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-image-picker] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-image-picker] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-linear-gradient] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-linear-gradient\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-linear-gradient] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-linear-gradient\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-safe-area-context] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-safe-area-context] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-screens] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-screens\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-screens] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-screens\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-svg] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-svg\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-svg] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-svg\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-track-player] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-track-player] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-vector-icons] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-vector-icons\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-vector-icons] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-vector-icons\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
 MERGED from [com.facebook.react:react-android:0.74.7] C:\Users\Admin\.gradle\caches\transforms-4\2dc86d96e28358f653da766f83514e79\transformed\jetified-react-android-0.74.7-debug\AndroidManifest.xml:10:5-44
 MERGED from [com.facebook.react:react-android:0.74.7] C:\Users\Admin\.gradle\caches\transforms-4\2dc86d96e28358f653da766f83514e79\transformed\jetified-react-android-0.74.7-debug\AndroidManifest.xml:10:5-44
 MERGED from [com.github.doublesymmetry:kotlinaudio:v2.1.0] C:\Users\Admin\.gradle\caches\transforms-4\dedad95fbdbb24622042b69eab7936d5\transformed\jetified-kotlinaudio-v2.1.0\AndroidManifest.xml:5:5-7:41
@@ -570,6 +571,8 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Admin\.gradle\cach
 MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Admin\.gradle\caches\transforms-4\2b91d0d29878aa147a22b9fec044b231\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
 MERGED from [androidx.tracing:tracing:1.1.0] C:\Users\Admin\.gradle\caches\transforms-4\8d30fa6f8503a6225f7629a1ed122795\transformed\jetified-tracing-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.tracing:tracing:1.1.0] C:\Users\Admin\.gradle\caches\transforms-4\8d30fa6f8503a6225f7629a1ed122795\transformed\jetified-tracing-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [:react-native-image-resizer] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-image-resizer\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-image-resizer] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-image-resizer\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
 MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\Admin\.gradle\caches\transforms-4\60e392a70747469c763ad13428646697\transformed\exifinterface-1.3.3\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\Admin\.gradle\caches\transforms-4\60e392a70747469c763ad13428646697\transformed\exifinterface-1.3.3\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.1.0] C:\Users\Admin\.gradle\caches\transforms-4\5c78cad45ae5b4c0f27e144b95f786e7\transformed\localbroadcastmanager-1.1.0\AndroidManifest.xml:20:5-22:41
@@ -635,25 +638,25 @@ MERGED from [com.google.android.play:core-common:2.0.3] C:\Users\Admin\.gradle\c
 	tools:overrideLibrary
 		ADDED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Admin\.gradle\caches\transforms-4\1e1277fff1a63d6f2c76649fee3561ef\transformed\jetified-firebase-auth-23.2.0\AndroidManifest.xml:23:9-148
 	android:targetSdkVersion
-		INJECTED from C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\debug\AndroidManifest.xml
+		INJECTED from C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\debug\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\android\app\src\debug\AndroidManifest.xml
+		INJECTED from C:\Users\Admin\Desktop\ProjectMusic\AppMusic\android\app\src\debug\AndroidManifest.xml
 uses-permission#android.permission.ACCESS_WIFI_STATE
 ADDED from [com.facebook.flipper:flipper:0.182.0] C:\Users\Admin\.gradle\caches\transforms-4\3d74042eeb4ac65e099db1befd40d414\transformed\jetified-flipper-0.182.0\AndroidManifest.xml:16:5-76
 	android:name
 		ADDED from [com.facebook.flipper:flipper:0.182.0] C:\Users\Admin\.gradle\caches\transforms-4\3d74042eeb4ac65e099db1befd40d414\transformed\jetified-flipper-0.182.0\AndroidManifest.xml:16:22-73
 uses-permission#android.permission.WAKE_LOCK
-ADDED from [:react-native-firebase_auth] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-firebase\auth\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:5-68
-MERGED from [:react-native-firebase_storage] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-firebase\storage\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:5-68
-MERGED from [:react-native-firebase_storage] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-firebase\storage\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:5-68
-MERGED from [:react-native-track-player] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-68
-MERGED from [:react-native-track-player] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-68
+ADDED from [:react-native-firebase_auth] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\@react-native-firebase\auth\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:5-68
+MERGED from [:react-native-firebase_storage] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\@react-native-firebase\storage\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:5-68
+MERGED from [:react-native-firebase_storage] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\@react-native-firebase\storage\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:5-68
+MERGED from [:react-native-track-player] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-68
+MERGED from [:react-native-track-player] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-68
 	android:name
-		ADDED from [:react-native-firebase_auth] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-firebase\auth\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:22-65
+		ADDED from [:react-native-firebase_auth] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\@react-native-firebase\auth\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:22-65
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [:react-native-firebase_auth] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-firebase\auth\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-79
-MERGED from [:react-native-firebase_storage] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-firebase\storage\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-79
-MERGED from [:react-native-firebase_storage] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-firebase\storage\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-79
+ADDED from [:react-native-firebase_auth] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\@react-native-firebase\auth\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-79
+MERGED from [:react-native-firebase_storage] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\@react-native-firebase\storage\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-79
+MERGED from [:react-native-firebase_storage] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\@react-native-firebase\storage\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-79
 MERGED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Admin\.gradle\caches\transforms-4\1e1277fff1a63d6f2c76649fee3561ef\transformed\jetified-firebase-auth-23.2.0\AndroidManifest.xml:26:5-79
 MERGED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Admin\.gradle\caches\transforms-4\1e1277fff1a63d6f2c76649fee3561ef\transformed\jetified-firebase-auth-23.2.0\AndroidManifest.xml:26:5-79
 MERGED from [com.google.firebase:firebase-firestore:25.1.3] C:\Users\Admin\.gradle\caches\transforms-4\2eed29c3ec20eebed22a71fe69abd07e\transformed\jetified-firebase-firestore-25.1.3\AndroidManifest.xml:10:5-79
@@ -669,15 +672,15 @@ MERGED from [com.google.android.exoplayer:exoplayer-common:2.19.0] C:\Users\Admi
 MERGED from [io.grpc:grpc-android:1.62.2] C:\Users\Admin\.gradle\caches\transforms-4\7b33cd1c1e2af2b9c95301d15e73a148\transformed\jetified-grpc-android-1.62.2\AndroidManifest.xml:7:5-79
 MERGED from [io.grpc:grpc-android:1.62.2] C:\Users\Admin\.gradle\caches\transforms-4\7b33cd1c1e2af2b9c95301d15e73a148\transformed\jetified-grpc-android-1.62.2\AndroidManifest.xml:7:5-79
 	android:name
-		ADDED from [:react-native-firebase_auth] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-firebase\auth\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:22-76
+		ADDED from [:react-native-firebase_auth] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\@react-native-firebase\auth\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:22-76
 meta-data#app_data_collection_default_enabled
-ADDED from [:react-native-firebase_app] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:9-11:36
+ADDED from [:react-native-firebase_app] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:9-11:36
 	android:value
-		ADDED from [:react-native-firebase_app] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-33
+		ADDED from [:react-native-firebase_app] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-33
 	android:name
-		ADDED from [:react-native-firebase_app] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:13-63
+		ADDED from [:react-native-firebase_app] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:13-63
 service#com.google.firebase.components.ComponentDiscoveryService
-ADDED from [:react-native-firebase_app] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:9-21:19
+ADDED from [:react-native-firebase_app] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:9-21:19
 MERGED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Admin\.gradle\caches\transforms-4\1e1277fff1a63d6f2c76649fee3561ef\transformed\jetified-firebase-auth-23.2.0\AndroidManifest.xml:66:9-72:19
 MERGED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Admin\.gradle\caches\transforms-4\1e1277fff1a63d6f2c76649fee3561ef\transformed\jetified-firebase-auth-23.2.0\AndroidManifest.xml:66:9-72:19
 MERGED from [com.google.firebase:firebase-firestore:25.1.3] C:\Users\Admin\.gradle\caches\transforms-4\2eed29c3ec20eebed22a71fe69abd07e\transformed\jetified-firebase-firestore-25.1.3\AndroidManifest.xml:14:9-23:19
@@ -691,105 +694,105 @@ MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Admin\.gra
 MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Admin\.gradle\caches\transforms-4\4616063430f6698849d14f48e6a64d76\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:30:9-38:19
 MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Admin\.gradle\caches\transforms-4\4616063430f6698849d14f48e6a64d76\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:30:9-38:19
 	android:exported
-		ADDED from [:react-native-firebase_app] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:16:13-37
+		ADDED from [:react-native-firebase_app] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:16:13-37
 	tools:targetApi
-		ADDED from [:react-native-firebase_app] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:17:13-32
+		ADDED from [:react-native-firebase_app] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:17:13-32
 	android:directBootAware
-		ADDED from [:react-native-firebase_app] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-43
+		ADDED from [:react-native-firebase_app] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-43
 	android:name
-		ADDED from [:react-native-firebase_app] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-84
+		ADDED from [:react-native-firebase_app] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-84
 meta-data#com.google.firebase.components:io.invertase.firebase.app.ReactNativeFirebaseAppRegistrar
-ADDED from [:react-native-firebase_app] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-20:85
+ADDED from [:react-native-firebase_app] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-20:85
 	android:value
-		ADDED from [:react-native-firebase_app] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:17-82
+		ADDED from [:react-native-firebase_app] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:17-82
 	android:name
-		ADDED from [:react-native-firebase_app] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:17-120
+		ADDED from [:react-native-firebase_app] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:17-120
 provider#io.invertase.firebase.app.ReactNativeFirebaseAppInitProvider
-ADDED from [:react-native-firebase_app] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:23:9-27:38
+ADDED from [:react-native-firebase_app] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:23:9-27:38
 	android:authorities
-		ADDED from [:react-native-firebase_app] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:25:13-86
+		ADDED from [:react-native-firebase_app] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:25:13-86
 	android:exported
-		ADDED from [:react-native-firebase_app] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:26:13-37
+		ADDED from [:react-native-firebase_app] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:26:13-37
 	android:initOrder
-		ADDED from [:react-native-firebase_app] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:27:13-35
+		ADDED from [:react-native-firebase_app] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:27:13-35
 	android:name
-		ADDED from [:react-native-firebase_app] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:24:13-88
+		ADDED from [:react-native-firebase_app] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:24:13-88
 queries
-ADDED from [:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-11:15
+ADDED from [:react-native-image-crop-picker] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-11:15
 MERGED from [androidx.test:runner:1.4.0] C:\Users\Admin\.gradle\caches\transforms-4\35ea6e3dd73dcaea1114b20433d1a671\transformed\runner-1.4.0\AndroidManifest.xml:24:5-28:15
 MERGED from [androidx.test:runner:1.4.0] C:\Users\Admin\.gradle\caches\transforms-4\35ea6e3dd73dcaea1114b20433d1a671\transformed\runner-1.4.0\AndroidManifest.xml:24:5-28:15
 intent#action:name:android.media.action.IMAGE_CAPTURE
-ADDED from [:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:9-10:18
+ADDED from [:react-native-image-crop-picker] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:9-10:18
 action#android.media.action.IMAGE_CAPTURE
-ADDED from [:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:13-73
+ADDED from [:react-native-image-crop-picker] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:13-73
 	android:name
-		ADDED from [:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:21-70
+		ADDED from [:react-native-image-crop-picker] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:21-70
 provider#com.reactnative.ivpusic.imagepicker.IvpusicImagePickerFileProvider
-ADDED from [:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:9-26:20
+ADDED from [:react-native-image-crop-picker] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:9-26:20
 	android:grantUriPermissions
-		ADDED from [:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:22:13-47
+		ADDED from [:react-native-image-crop-picker] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:22:13-47
 	android:authorities
-		ADDED from [:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:13-60
+		ADDED from [:react-native-image-crop-picker] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:13-60
 	android:exported
-		ADDED from [:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:21:13-37
+		ADDED from [:react-native-image-crop-picker] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:21:13-37
 	android:name
-		ADDED from [:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:13-94
+		ADDED from [:react-native-image-crop-picker] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:13-94
 meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from [:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:23:13-25:78
+ADDED from [:react-native-image-crop-picker] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:23:13-25:78
 	android:resource
-		ADDED from [:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:25:17-75
+		ADDED from [:react-native-image-crop-picker] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:25:17-75
 	android:name
-		ADDED from [:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:24:17-67
+		ADDED from [:react-native-image-crop-picker] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:24:17-67
 activity#com.yalantis.ucrop.UCropActivity
-ADDED from [:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:28:9-30:72
+ADDED from [:react-native-image-crop-picker] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:28:9-30:72
 	android:theme
-		ADDED from [:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:30:13-69
+		ADDED from [:react-native-image-crop-picker] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:30:13-69
 	android:name
-		ADDED from [:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:29:13-60
+		ADDED from [:react-native-image-crop-picker] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:29:13-60
 service#com.google.android.gms.metadata.ModuleDependencies
-ADDED from [:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:33:9-44:19
+ADDED from [:react-native-image-crop-picker] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:33:9-44:19
 	android:enabled
-		ADDED from [:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:35:13-36
+		ADDED from [:react-native-image-crop-picker] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:35:13-36
 	android:exported
-		ADDED from [:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:36:13-37
+		ADDED from [:react-native-image-crop-picker] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:36:13-37
 	android:name
-		ADDED from [:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:34:13-78
+		ADDED from [:react-native-image-crop-picker] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:34:13-78
 intent-filter#action:name:com.google.android.gms.metadata.MODULE_DEPENDENCIES
-ADDED from [:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:37:13-39:29
+ADDED from [:react-native-image-crop-picker] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:37:13-39:29
 action#com.google.android.gms.metadata.MODULE_DEPENDENCIES
-ADDED from [:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:38:17-94
+ADDED from [:react-native-image-crop-picker] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:38:17-94
 	android:name
-		ADDED from [:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:38:25-91
+		ADDED from [:react-native-image-crop-picker] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:38:25-91
 meta-data#photopicker_activity:0:required
-ADDED from [:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:41:13-43:36
+ADDED from [:react-native-image-crop-picker] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:41:13-43:36
 	android:value
-		ADDED from [:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:43:17-33
+		ADDED from [:react-native-image-crop-picker] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:43:17-33
 	android:name
-		ADDED from [:react-native-image-crop-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:42:17-63
+		ADDED from [:react-native-image-crop-picker] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:42:17-63
 provider#com.imagepicker.ImagePickerProvider
-ADDED from [:react-native-image-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:9-16:20
+ADDED from [:react-native-image-picker] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:9-16:20
 	android:grantUriPermissions
-		ADDED from [:react-native-image-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-47
+		ADDED from [:react-native-image-picker] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-47
 	android:authorities
-		ADDED from [:react-native-image-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:13-71
+		ADDED from [:react-native-image-picker] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:13-71
 	android:exported
-		ADDED from [:react-native-image-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-37
+		ADDED from [:react-native-image-picker] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-37
 	android:name
-		ADDED from [:react-native-image-picker] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:13-63
+		ADDED from [:react-native-image-picker] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:13-63
 uses-permission#android.permission.FOREGROUND_SERVICE
-ADDED from [:react-native-track-player] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:5-77
+ADDED from [:react-native-track-player] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:5-77
 	android:name
-		ADDED from [:react-native-track-player] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:22-74
+		ADDED from [:react-native-track-player] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:22-74
 uses-permission#android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK
-ADDED from [:react-native-track-player] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-92
+ADDED from [:react-native-track-player] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-92
 	android:name
-		ADDED from [:react-native-track-player] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:22-89
+		ADDED from [:react-native-track-player] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:22-89
 intent-filter#action:name:android.intent.action.MEDIA_BUTTON
-ADDED from [:react-native-track-player] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:13-21:29
+ADDED from [:react-native-track-player] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:13-21:29
 action#android.intent.action.MEDIA_BUTTON
-ADDED from [:react-native-track-player] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:17-77
+ADDED from [:react-native-track-player] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:17-77
 	android:name
-		ADDED from [:react-native-track-player] C:\Users\Admin\Desktop\DATTLT\ProjectMusic\AppMusic\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:25-74
+		ADDED from [:react-native-track-player] C:\Users\Admin\Desktop\ProjectMusic\AppMusic\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:25-74
 activity#com.google.firebase.auth.internal.GenericIdpActivity
 ADDED from [com.google.firebase:firebase-auth:23.2.0] C:\Users\Admin\.gradle\caches\transforms-4\1e1277fff1a63d6f2c76649fee3561ef\transformed\jetified-firebase-auth-23.2.0\AndroidManifest.xml:29:9-46:20
 	android:excludeFromRecents

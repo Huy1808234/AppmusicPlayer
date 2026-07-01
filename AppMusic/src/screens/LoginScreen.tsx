@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, {useState} from 'react';
 import {
   View,
   Text,
@@ -12,20 +12,20 @@ import {
 import LinearGradient from 'react-native-linear-gradient';
 import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
 import auth from '@react-native-firebase/auth';
-import { NativeStackNavigationProp } from '@react-navigation/native-stack';
-
+import {NativeStackNavigationProp} from '@react-navigation/native-stack';
 
 type AuthStackParamList = {
   Login: undefined;
   Register: undefined;
-  MainTabs: undefined; // 👈 Đảm bảo thêm cái này để navigation.replace hiểu
+  MainTabs: undefined;
+  ForgotPassword: undefined; //  Đảm bảo thêm cái này để navigation.replace hiểu
 };
 
 type Props = {
   navigation: NativeStackNavigationProp<AuthStackParamList, 'Login'>;
 };
 
-export default function LoginScreen({ navigation }: Props) {
+export default function LoginScreen({navigation}: Props) {
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
 
@@ -37,7 +37,7 @@ export default function LoginScreen({ navigation }: Props) {
 
     try {
       await auth().signInWithEmailAndPassword(email, password);
-      navigation.replace('MainTabs'); // 👈 Sau khi login thành công
+      navigation.replace('MainTabs'); //  Sau khi login thành công
     } catch (error: any) {
       Alert.alert('Lỗi đăng nhập', error.message);
     }
@@ -48,9 +48,13 @@ export default function LoginScreen({ navigation }: Props) {
       <Text style={styles.title}>Login</Text>
 
       <View style={styles.inputContainer}>
-      <Icon name="account-circle" size={20} color="#666" style={styles.icon} />
+        <Icon
+          name="account-circle"
+          size={20}
+          color="#666"
+          style={styles.icon}
+        />
         <TextInput
-        
           placeholder="Email"
           value={email}
           onChangeText={setEmail}
@@ -61,7 +65,7 @@ export default function LoginScreen({ navigation }: Props) {
       </View>
 
       <View style={styles.inputContainer}>
-      <Icon name="email-lock" size={20} color="#888" style={styles.icon} />
+        <Icon name="email-lock" size={20} color="#888" style={styles.icon} />
         <TextInput
           placeholder="Password"
           secureTextEntry
@@ -71,17 +75,18 @@ export default function LoginScreen({ navigation }: Props) {
         />
       </View>
 
-      <TouchableOpacity style={{ alignSelf: 'flex-end', marginBottom: 20 }}>
+      <TouchableOpacity
+        style={{alignSelf: 'flex-end', marginBottom: 20}}
+        onPress={() => navigation.navigate('ForgotPassword')}>
         <Text style={styles.forgot}>Forgot password?</Text>
       </TouchableOpacity>
 
       <Pressable style={styles.loginButton} onPress={handleLogin}>
         <LinearGradient
           colors={['#36d1dc', '#5b86e5', '#a65bf5']}
-          start={{ x: 0, y: 0 }}
-          end={{ x: 1, y: 0 }}
-          style={styles.gradient}
-        >
+          start={{x: 0, y: 0}}
+          end={{x: 1, y: 0}}
+          style={styles.gradient}>
           <Text style={styles.loginText}>LOGIN</Text>
         </LinearGradient>
       </Pressable>
@@ -90,15 +95,15 @@ export default function LoginScreen({ navigation }: Props) {
 
       <View style={styles.socialContainer}>
         <Image
-          source={{ uri: 'https://img.icons8.com/color/48/facebook-new.png' }}
+          source={{uri: 'https://img.icons8.com/color/48/facebook-new.png'}}
           style={styles.socialIcon}
         />
         <Image
-          source={{ uri: 'https://img.icons8.com/color/48/twitter--v1.png' }}
+          source={{uri: 'https://img.icons8.com/color/48/twitter--v1.png'}}
           style={styles.socialIcon}
         />
         <Image
-          source={{ uri: 'https://img.icons8.com/color/48/google-logo.png' }}
+          source={{uri: 'https://img.icons8.com/color/48/google-logo.png'}}
           style={styles.socialIcon}
         />
       </View>
@@ -111,8 +116,18 @@ export default function LoginScreen({ navigation }: Props) {
 }
 
 const styles = StyleSheet.create({
-  container: { flex: 1, padding: 30, justifyContent: 'center', backgroundColor: '#fff' },
-  title: { fontSize: 32, fontWeight: 'bold', textAlign: 'center', marginBottom: 40 },
+  container: {
+    flex: 1,
+    padding: 30,
+    justifyContent: 'center',
+    backgroundColor: '#fff',
+  },
+  title: {
+    fontSize: 32,
+    fontWeight: 'bold',
+    textAlign: 'center',
+    marginBottom: 40,
+  },
   inputContainer: {
     flexDirection: 'row',
     alignItems: 'center',
@@ -121,17 +136,17 @@ const styles = StyleSheet.create({
     marginBottom: 20,
     paddingBottom: 5,
   },
-  icon: { marginRight: 10 },
-  input: { flex: 1, fontSize: 16 },
-  forgot: { color: '#999', fontSize: 14 },
-  loginButton: { marginVertical: 20 },
+  icon: {marginRight: 10},
+  input: {flex: 1, fontSize: 16},
+  forgot: {color: '#999', fontSize: 14},
+  loginButton: {marginVertical: 20},
   gradient: {
     paddingVertical: 14,
     borderRadius: 30,
     alignItems: 'center',
   },
-  loginText: { color: '#fff', fontSize: 16, fontWeight: 'bold' },
-  orText: { textAlign: 'center', color: '#999', marginVertical: 20 },
+  loginText: {color: '#fff', fontSize: 16, fontWeight: 'bold'},
+  orText: {textAlign: 'center', color: '#999', marginVertical: 20},
   socialContainer: {
     flexDirection: 'row',
     justifyContent: 'center',
